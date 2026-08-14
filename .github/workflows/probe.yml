@@ -1,0 +1,56 @@
+name: probe
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Probe JETRO endpoint
+        run: |
+          UA='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
+          URL='https://www.jetro.go.jp/view_interface.php?blockId=33686978&local_from=2026%2F08%2F01&local_to=2026%2F08%2F14&local_area=&local_entity=&local_keyword=&local_classification1=&local_classification2=&local_classification3=&local_deadline=1&_page=1'
+
+          try () {
+            echo "=============================================="
+            echo "### $1"
+            shift
+            code=$(curl -sS -o /tmp/body -w '%{http_code}' "$@" "$URL" || echo "curl_exit=$?")
+            echo "HTTP status : $code"
+            echo "size        : $(wc -c < /tmp/body) bytes"
+            echo "content-type: $(file -b --mime-type /tmp/body)"
+            echo "--- first 400 chars ---"
+            head -c 400 /tmp/body; echo
+          }
+
+          try "A: ヘッダなし（素のcurl）"
+          try "B: UAのみ" -A "$UA"
+          try "C: UA + Accept + XHR + Referer" \
+            -A "$UA" \
+            -H 'Accept: application/json, text/javascript, */*; q=0.01' \
+            -H 'X-Requested-With: XMLHttpRequest' \
+            -H 'Referer: https://www.jetro.go.jp/gov_procurement/'
+          try "D: C + 圧縮 + 言語 + Sec-Fetch" \
+            --compressed -A "$UA" \
+            -H 'Accept: application/json, text/javascript, */*; q=0.01' \
+            -H 'Accept-Language: ja,en-US;q=0.9,en;q=0.8' \
+            -H 'X-Requested-With: XMLHttpRequest' \
+            -H 'Referer: https://www.jetro.go.jp/gov_procurement/local/list.html' \
+            -H 'Sec-Fetch-Dest: empty' \
+            -H 'Sec-Fetch-Mode: cors' \
+            -H 'Sec-Fetch-Site: same-origin' \
+            -H 'Connection: keep-alive'
+          try "E: D + Cookie取得後（セッション有り）" \
+            --compressed -A "$UA" \
+            -c /tmp/cj -b /tmp/cj \
+            -H 'Accept: application/json, text/javascript, */*; q=0.01' \
+            -H 'X-Requested-With: XMLHttpRequest' \
+            -H 'Referer: https://www.jetro.go.jp/gov_procurement/'
+
+          echo "=============================================="
+          echo "### 参考: 詳細ページ（静的HTML）は取れるか"
+          curl -sS -o /tmp/a -w 'HTTP %{http_code} / %{size_download} bytes\n' \
+            -A "$UA" \
+            'https://www.jetro.go.jp/gov_procurement/local/articles/6fd8ca73bff101ab.html'
+          head -c 200 /tmp/a; echo
