@@ -116,6 +116,10 @@ jq -n \
   > data/latest.json
 jq -e '.collected_at' data/latest.json > /dev/null
 
+# 差分のみの軽量版
+jq '{collected_at, window, server_total, collected, count_match, new_count, new_items}' \
+  data/latest.json > data/new.json
+
 echo "### STAGE 6: seen更新"
 jq -s '((.[0] // []) + ((.[1] // []) | map(.aid))) | unique' data/seen.json tmp/items.json > tmp/seen.json
 mv tmp/seen.json data/seen.json
