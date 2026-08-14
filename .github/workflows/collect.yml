@@ -1,0 +1,26 @@
+name: jetro-collect
+
+on:
+  schedule:
+    - cron: '10 6 * * 1-5'   # 平日 06:10 UTC = 15:10 JST
+  workflow_dispatch:          # 手動実行ボタン
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Collect from JETRO
+        run: bash scripts/collect.sh
+
+      - name: Commit results
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --staged --quiet || git commit -m "collect $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
