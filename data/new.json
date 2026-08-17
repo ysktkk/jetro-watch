@@ -1,12 +1,139 @@
 {
-  "collected_at": "2026-08-14T12:47:35Z",
+  "collected_at": "2026-08-17T07:13:43Z",
   "window": {
-    "from": "2026/07/15",
-    "to": "2026/08/14"
+    "from": "2026/07/18",
+    "to": "2026/08/17"
   },
-  "server_total": 498,
-  "collected": 498,
+  "server_total": 434,
+  "collected": 434,
   "count_match": true,
-  "new_count": 0,
-  "new_items": []
+  "new_count": 14,
+  "new_items": [
+    {
+      "xid": 81561,
+      "aid": "1f3b32e010e4ffb5",
+      "title": "ＯＳＳ（ワンストップサービスをいう。）警察共同利用型システム機器等（以下「Ｊ－ＰＯＳＳ」という。）の賃貸借一式",
+      "date": "2026年08月14日",
+      "agency": "沖縄県",
+      "location": "沖縄県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1f3b32e010e4ffb5.html"
+    },
+    {
+      "xid": 81560,
+      "aid": "2b9cab896bf8a7e5",
+      "title": "タンデム型質量分析装置（ＬＣＭＳ） 一式",
+      "date": "2026年08月14日",
+      "agency": "沖縄県",
+      "location": "沖縄県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2b9cab896bf8a7e5.html"
+    },
+    {
+      "xid": 81562,
+      "aid": "2cc83985f3fe472c",
+      "title": "ア キイトルーダ点滴静注100㎎、100㎎４ml１瓶、968瓶 イ オプジーボ点滴静注240mg、240mg24ml１瓶、488瓶 ウ ユルトミリスＨＩ点滴静注1100mg／11ml、1100mg11ml１瓶、57瓶 エ アムヴトラ皮下注25㎎シリンジ、0....",
+      "date": "2026年08月14日",
+      "agency": "島根県",
+      "location": "島根県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2cc83985f3fe472c.html"
+    },
+    {
+      "xid": 81555,
+      "aid": "3a9718a158c380f3",
+      "title": "乗用自動車の賃貸借　一式（１月当たりの単価）　１台分",
+      "date": "2026年08月14日",
+      "agency": "北海道",
+      "location": "北海道",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3a9718a158c380f3.html"
+    },
+    {
+      "xid": 81557,
+      "aid": "42a76209cf4a9735",
+      "title": "Setouchi-i-Baseオフィス改修業務",
+      "date": "2026年08月14日",
+      "agency": "香川県",
+      "location": "香川県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/42a76209cf4a9735.html"
+    },
+    {
+      "xid": 81552,
+      "aid": "453741ca690ba611",
+      "title": "清掃業務委託 一式",
+      "date": "2026年08月14日",
+      "agency": "新潟県",
+      "location": "新潟県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/453741ca690ba611.html"
+    },
+    {
+      "xid": 81551,
+      "aid": "57845d1111c55889",
+      "title": "トリプル四重極型液体クロマトグラフ質量分析装置の賃貸借",
+      "date": "2026年08月14日",
+      "agency": "新潟県",
+      "location": "新潟県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/57845d1111c55889.html"
+    },
+    {
+      "xid": 81558,
+      "aid": "70f50c09d1b64e77",
+      "title": "エアバス・ヘリコプターズ式ＢＫ１１７Ｄ－３型回転翼航空機点検整備 一式",
+      "date": "2026年08月14日",
+      "agency": "秋田県",
+      "location": "秋田県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/70f50c09d1b64e77.html"
+    },
+    {
+      "xid": 81559,
+      "aid": "83885f672e9e75e5",
+      "title": "液体クロマト四重極質量分析装置（Ｑ－ＴＯＦ） 一式",
+      "date": "2026年08月14日",
+      "agency": "沖縄県",
+      "location": "沖縄県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/83885f672e9e75e5.html"
+    },
+    {
+      "xid": 81553,
+      "aid": "8a5d93a43f4527c9",
+      "title": "水道用ポリ塩化アルミニウム 540,000ｋｇ",
+      "date": "2026年08月14日",
+      "agency": "三重県",
+      "location": "三重県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8a5d93a43f4527c9.html"
+    },
+    {
+      "xid": 81556,
+      "aid": "ae26f770b331f097",
+      "title": "凍結防止剤（塩化ナトリウム） 千トン程度",
+      "date": "2026年08月14日",
+      "agency": "青森県",
+      "location": "青森県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ae26f770b331f097.html"
+    },
+    {
+      "xid": 81563,
+      "aid": "bd10d61467b81e42",
+      "title": "超音波画像診断装置１式",
+      "date": "2026年08月14日",
+      "agency": "地方独立行政法人静岡県立病院機構",
+      "location": "静岡県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bd10d61467b81e42.html"
+    },
+    {
+      "xid": 81564,
+      "aid": "cdb4c99e0b20fe6a",
+      "title": "汎用画像診断装置ワークステーション 一式",
+      "date": "2026年08月14日",
+      "agency": "公立大学法人和歌山県立医科大学",
+      "location": "和歌山県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/cdb4c99e0b20fe6a.html"
+    },
+    {
+      "xid": 81554,
+      "aid": "f964aa8ce6f599ad",
+      "title": "穂別鵡川線長寿命化（無名橋）補修工事に係る仮設材の賃貸借　一式（１月当たりの単価）　125.3ｔ",
+      "date": "2026年08月14日",
+      "agency": "北海道",
+      "location": "北海道",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f964aa8ce6f599ad.html"
+    }
+  ]
 }
