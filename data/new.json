@@ -1,139 +1,256 @@
 {
-  "collected_at": "2026-08-17T07:13:43Z",
+  "collected_at": "2026-08-18T07:01:12Z",
   "window": {
-    "from": "2026/07/18",
-    "to": "2026/08/17"
+    "from": "2026/07/19",
+    "to": "2026/08/18"
   },
-  "server_total": 434,
-  "collected": 434,
+  "server_total": 461,
+  "collected": 461,
   "count_match": true,
-  "new_count": 14,
+  "new_count": 27,
   "new_items": [
     {
-      "xid": 81561,
-      "aid": "1f3b32e010e4ffb5",
-      "title": "ＯＳＳ（ワンストップサービスをいう。）警察共同利用型システム機器等（以下「Ｊ－ＰＯＳＳ」という。）の賃貸借一式",
-      "date": "2026年08月14日",
-      "agency": "沖縄県",
-      "location": "沖縄県",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1f3b32e010e4ffb5.html"
+      "xid": 81583,
+      "aid": "0c5e00b6ed132bdd",
+      "title": "血管造影用マイクロカテーテル 外114点の買入れ(数量概算契約)",
+      "date": "2026年08月17日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0c5e00b6ed132bdd.html"
     },
     {
-      "xid": 81560,
-      "aid": "2b9cab896bf8a7e5",
-      "title": "タンデム型質量分析装置（ＬＣＭＳ） 一式",
-      "date": "2026年08月14日",
-      "agency": "沖縄県",
-      "location": "沖縄県",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2b9cab896bf8a7e5.html"
+      "xid": 81582,
+      "aid": "19b7b1fa2c1dc5d0",
+      "title": "骨手術用器械 外987点の買入れ（数量概算契約）",
+      "date": "2026年08月17日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/19b7b1fa2c1dc5d0.html"
     },
     {
-      "xid": 81562,
-      "aid": "2cc83985f3fe472c",
-      "title": "ア キイトルーダ点滴静注100㎎、100㎎４ml１瓶、968瓶 イ オプジーボ点滴静注240mg、240mg24ml１瓶、488瓶 ウ ユルトミリスＨＩ点滴静注1100mg／11ml、1100mg11ml１瓶、57瓶 エ アムヴトラ皮下注25㎎シリンジ、0....",
-      "date": "2026年08月14日",
-      "agency": "島根県",
-      "location": "島根県",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2cc83985f3fe472c.html"
+      "xid": 81578,
+      "aid": "20fd1b62bd37d4fd",
+      "title": "全自動糖分析電磁弁フィルター外1324点の買入れ（数量概算契約）",
+      "date": "2026年08月17日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/20fd1b62bd37d4fd.html"
     },
     {
-      "xid": 81555,
-      "aid": "3a9718a158c380f3",
-      "title": "乗用自動車の賃貸借　一式（１月当たりの単価）　１台分",
-      "date": "2026年08月14日",
-      "agency": "北海道",
+      "xid": 81588,
+      "aid": "277a788f3aa8174d",
+      "title": "縫合部補強材 外40点の買入れ（数量概算契約）",
+      "date": "2026年08月17日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/277a788f3aa8174d.html"
+    },
+    {
+      "xid": 81570,
+      "aid": "2f540d7dcaf2d26f",
+      "title": "パーソナルコンピューター　一式",
+      "date": "2026年08月17日",
+      "agency": "長野県",
+      "location": "長野県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2f540d7dcaf2d26f.html"
+    },
+    {
+      "xid": 81574,
+      "aid": "3243b106238176d9",
+      "title": "生化学・免疫検査システム一式",
+      "date": "2026年08月17日",
+      "agency": "地方独立行政法人大阪府立病院機構",
+      "location": "大阪府",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3243b106238176d9.html"
+    },
+    {
+      "xid": 81571,
+      "aid": "3248c4b7adaeb94c",
+      "title": "仮設校舎　一式",
+      "date": "2026年08月17日",
+      "agency": "長野県",
+      "location": "長野県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3248c4b7adaeb94c.html"
+    },
+    {
+      "xid": 81576,
+      "aid": "3cdf3172547763b4",
+      "title": "多機能分析型電界放出走査電子顕微鏡",
+      "date": "2026年08月17日",
+      "agency": "地方独立行政法人京都市産業技術研究所",
+      "location": "京都府",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3cdf3172547763b4.html"
+    },
+    {
+      "xid": 81591,
+      "aid": "40f9484b5b79b7ac",
+      "title": "茨城県立高萩高等学校外117校に係る指導者用端末等　１式",
+      "date": "2026年08月17日",
+      "agency": "茨城県",
+      "location": "茨城県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/40f9484b5b79b7ac.html"
+    },
+    {
+      "xid": 81581,
+      "aid": "454f57cb650ac7f8",
+      "title": "気管内チューブ外 639点の買入れ（数量概算契約）",
+      "date": "2026年08月17日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/454f57cb650ac7f8.html"
+    },
+    {
+      "xid": 81584,
+      "aid": "5e4a9d068dd3f1bd",
+      "title": "血液凝固測定装置専用カートリッジ 外225点の買入れ（数量概算契約）",
+      "date": "2026年08月17日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/5e4a9d068dd3f1bd.html"
+    },
+    {
+      "xid": 81569,
+      "aid": "6781d36c8dda23fa",
+      "title": "ＣＡＤ／ＣＡＭシステム　一式",
+      "date": "2026年08月17日",
+      "agency": "長野県",
+      "location": "長野県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/6781d36c8dda23fa.html"
+    },
+    {
+      "xid": 81586,
+      "aid": "746566a02d8a2770",
+      "title": "血管形成バルーン用加圧器 外143点の買入れ（数量概算契約）",
+      "date": "2026年08月17日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/746566a02d8a2770.html"
+    },
+    {
+      "xid": 81589,
+      "aid": "7cfa0ba7f1bed8da",
+      "title": "茨城県立日立第一高等学校附属中学校外７校に係るタブレット端末等　１式",
+      "date": "2026年08月17日",
+      "agency": "茨城県",
+      "location": "茨城県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7cfa0ba7f1bed8da.html"
+    },
+    {
+      "xid": 81577,
+      "aid": "817e95f321b1b11a",
+      "title": "都立14病院における医療相談・退院支援システムの導入及び運用保守委託",
+      "date": "2026年08月17日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/817e95f321b1b11a.html"
+    },
+    {
+      "xid": 81587,
+      "aid": "82688e780cea2052",
+      "title": "麻酔用輸液セット 外257点の買入れ（数量概算契約）",
+      "date": "2026年08月17日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/82688e780cea2052.html"
+    },
+    {
+      "xid": 81580,
+      "aid": "82e397ec13872380",
+      "title": "プリンター用紙 外1196点の買入れ(数量概算契約)",
+      "date": "2026年08月17日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/82e397ec13872380.html"
+    },
+    {
+      "xid": 81566,
+      "aid": "862233c54ecb491b",
+      "title": "４０５６ 災害活動支援用資機材（城山分署）",
+      "date": "2026年08月17日",
+      "agency": "相模原市",
+      "location": "神奈川県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/862233c54ecb491b.html"
+    },
+    {
+      "xid": 81568,
+      "aid": "8c5612c4d398158d",
+      "title": "県立学校情報通信ネットワークシステム用パーソナルコンピュータ　988台",
+      "date": "2026年08月17日",
+      "agency": "長野県",
+      "location": "長野県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8c5612c4d398158d.html"
+    },
+    {
+      "xid": 81590,
+      "aid": "a5ec1dc93d027e05",
+      "title": "茨城県立高萩高等学校外67校に係るタブレット端末等（ChromeOS）　１式",
+      "date": "2026年08月17日",
+      "agency": "茨城県",
+      "location": "茨城県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a5ec1dc93d027e05.html"
+    },
+    {
+      "xid": 81575,
+      "aid": "b5a76eb7ea55435b",
+      "title": "全自動多目的X線回折装置（9kW-Mo、DSC付）",
+      "date": "2026年08月17日",
+      "agency": "地方独立行政法人京都市産業技術研究所",
+      "location": "京都府",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b5a76eb7ea55435b.html"
+    },
+    {
+      "xid": 81567,
+      "aid": "bd5e121ef4b4e4c9",
+      "title": "４０５７ ネットワーク機器賃貸借（強靭化ＬＢ・監視サーバ）",
+      "date": "2026年08月17日",
+      "agency": "相模原市",
+      "location": "神奈川県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bd5e121ef4b4e4c9.html"
+    },
+    {
+      "xid": 81573,
+      "aid": "d1362bda5e1a627d",
+      "title": "直読式水道メーター（表示部回転式）ＳＤＫ13（修理）その１ 8,000個",
+      "date": "2026年08月17日",
+      "agency": "札幌市",
       "location": "北海道",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3a9718a158c380f3.html"
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d1362bda5e1a627d.html"
     },
     {
-      "xid": 81557,
-      "aid": "42a76209cf4a9735",
-      "title": "Setouchi-i-Baseオフィス改修業務",
-      "date": "2026年08月14日",
-      "agency": "香川県",
-      "location": "香川県",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/42a76209cf4a9735.html"
+      "xid": 81585,
+      "aid": "de3ca68ab8650436",
+      "title": "心臓内心電計ケーブル 外128点の買入れ(数量概算契約)",
+      "date": "2026年08月17日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/de3ca68ab8650436.html"
     },
     {
-      "xid": 81552,
-      "aid": "453741ca690ba611",
-      "title": "清掃業務委託 一式",
-      "date": "2026年08月14日",
-      "agency": "新潟県",
-      "location": "新潟県",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/453741ca690ba611.html"
+      "xid": 81579,
+      "aid": "e15a404cd5be1df8",
+      "title": "内視鏡ガイドワイヤー外 1132点の買入れ（数量概算契約）",
+      "date": "2026年08月17日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e15a404cd5be1df8.html"
     },
     {
-      "xid": 81551,
-      "aid": "57845d1111c55889",
-      "title": "トリプル四重極型液体クロマトグラフ質量分析装置の賃貸借",
-      "date": "2026年08月14日",
-      "agency": "新潟県",
-      "location": "新潟県",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/57845d1111c55889.html"
+      "xid": 81565,
+      "aid": "f7ce2640172fee8c",
+      "title": "千葉市住民記録システム用カード券面プリンタ賃貸借契約（長期継続契約）",
+      "date": "2026年08月17日",
+      "agency": "千葉市",
+      "location": "千葉県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f7ce2640172fee8c.html"
     },
     {
-      "xid": 81558,
-      "aid": "70f50c09d1b64e77",
-      "title": "エアバス・ヘリコプターズ式ＢＫ１１７Ｄ－３型回転翼航空機点検整備 一式",
-      "date": "2026年08月14日",
-      "agency": "秋田県",
-      "location": "秋田県",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/70f50c09d1b64e77.html"
-    },
-    {
-      "xid": 81559,
-      "aid": "83885f672e9e75e5",
-      "title": "液体クロマト四重極質量分析装置（Ｑ－ＴＯＦ） 一式",
-      "date": "2026年08月14日",
-      "agency": "沖縄県",
-      "location": "沖縄県",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/83885f672e9e75e5.html"
-    },
-    {
-      "xid": 81553,
-      "aid": "8a5d93a43f4527c9",
-      "title": "水道用ポリ塩化アルミニウム 540,000ｋｇ",
-      "date": "2026年08月14日",
-      "agency": "三重県",
-      "location": "三重県",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8a5d93a43f4527c9.html"
-    },
-    {
-      "xid": 81556,
-      "aid": "ae26f770b331f097",
-      "title": "凍結防止剤（塩化ナトリウム） 千トン程度",
-      "date": "2026年08月14日",
-      "agency": "青森県",
-      "location": "青森県",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ae26f770b331f097.html"
-    },
-    {
-      "xid": 81563,
-      "aid": "bd10d61467b81e42",
-      "title": "超音波画像診断装置１式",
-      "date": "2026年08月14日",
-      "agency": "地方独立行政法人静岡県立病院機構",
-      "location": "静岡県",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bd10d61467b81e42.html"
-    },
-    {
-      "xid": 81564,
-      "aid": "cdb4c99e0b20fe6a",
-      "title": "汎用画像診断装置ワークステーション 一式",
-      "date": "2026年08月14日",
-      "agency": "公立大学法人和歌山県立医科大学",
-      "location": "和歌山県",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/cdb4c99e0b20fe6a.html"
-    },
-    {
-      "xid": 81554,
-      "aid": "f964aa8ce6f599ad",
-      "title": "穂別鵡川線長寿命化（無名橋）補修工事に係る仮設材の賃貸借　一式（１月当たりの単価）　125.3ｔ",
-      "date": "2026年08月14日",
-      "agency": "北海道",
-      "location": "北海道",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f964aa8ce6f599ad.html"
+      "xid": 81572,
+      "aid": "fa956dd5de723d0c",
+      "title": "ア 調達物品 ロータリ小形除雪車（1.0ｍ、30kW 級）３台 イ 交換物品 小形除雪車（管理番号：S07-2202、車両番号：庄原市特 105） 小形除雪車（管理番号：S09-2204、車両番号：庄原市特 127） 小形除雪車（管理番...",
+      "date": "2026年08月17日",
+      "agency": "広島県",
+      "location": "広島県",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/fa956dd5de723d0c.html"
     }
   ]
 }
