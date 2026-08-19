@@ -138,9 +138,25 @@ jq -n \
     new_count:$new_count, new_by_feed:{local:$nl, national:$nn},
     new_items:$newi[0], items:$items[0]}' > data/latest.json
 
-jq '{collected_at, window, server_total, collected, count_match,
-     by_feed, new_count, new_by_feed, new_items}' \
-  data/latest.json > data/new.json
+# 判定タスク用の軽量版（フィード別に分割）
+mk_new() { # $1=出力先 $2="all"/"local"/"national"
+  jq --arg mode "$2" '
+    (if $mode == "all" then .new_items
+     else (.new_items | map(select(.feed == $mode))) end) as $sel
+    | {collected_at, window, server_total, collected, count_match,
+       by_feed, new_by_feed,
+       new_count: ($sel | length),
+       new_items: ($sel | map({
+         feed, date, agency, location, title, url,
+         paKind: ((.paKind // "") | gsub("<[^>]*>"; " ") | gsub("\\s+"; " ")
+                  | ltrimstr(" ") | rtrimstr(" "))
+       }))}
+  ' data/latest.json > "$1"
+}
+
+mk_new data/new.json          all
+mk_new data/new_local.json    local
+mk_new data/new_national.json national
 
 echo "### STAGE 6: seen更新"
 mv tmp/seen_new.json data/seen.json
