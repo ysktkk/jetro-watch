@@ -1,19 +1,19 @@
 {
-  "collected_at": "2026-08-19T04:22:47Z",
+  "collected_at": "2026-08-19T07:02:56Z",
   "window": {
     "from": "2026/07/20",
     "to": "2026/08/19"
   },
-  "server_total": 1412,
-  "collected": 1412,
+  "server_total": 1430,
+  "collected": 1430,
   "count_match": true,
   "by_feed": {
     "local": 488,
-    "national": 924
+    "national": 942
   },
   "new_by_feed": {
     "local": 27,
-    "national": 924
+    "national": 942
   },
   "new_count": 27,
   "new_items": [
