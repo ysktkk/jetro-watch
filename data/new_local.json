@@ -1,0 +1,264 @@
+{
+  "collected_at": "2026-08-19T04:22:47Z",
+  "window": {
+    "from": "2026/07/20",
+    "to": "2026/08/19"
+  },
+  "server_total": 1412,
+  "collected": 1412,
+  "count_match": true,
+  "by_feed": {
+    "local": 488,
+    "national": 924
+  },
+  "new_by_feed": {
+    "local": 27,
+    "national": 924
+  },
+  "new_count": 27,
+  "new_items": [
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "広島市",
+      "location": "広島県",
+      "title": "広島市立学校窓ガラス等清掃業務（安佐南区・石内北小学校）一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/08a3cd66f6717291.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "横浜市",
+      "location": "神奈川県",
+      "title": "ソフトウェアライセンス 28ライセンスほかの購入",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0a57abea9ec32d51.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "徳島県",
+      "location": "徳島県",
+      "title": "高速液体クロマトグラフ質量分析装置 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0baba11802306a19.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "石川県",
+      "location": "石川県",
+      "title": "放射線情報システム 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0ee7efe7d56d8281.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "熊本市",
+      "location": "熊本県",
+      "title": "コピー用再生紙Ａ４（共通紙）他（R8下半期）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/227b1d42ccedcfe6.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "和歌山県",
+      "location": "和歌山県",
+      "title": "令和8年度及び令和9年度県庁舎（本館）電力調達",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2591e866293e919e.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "和歌山県",
+      "location": "和歌山県",
+      "title": "令和8年度及び令和9年度県庁舎（南別館）電力調達",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2ada9fb00dc7e42f.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "横浜市",
+      "location": "神奈川県",
+      "title": "災害備蓄用エアーマット ５５，０８０個の購入",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4891fd3167e0b901.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "神奈川県",
+      "location": "神奈川県",
+      "title": "特別支援学校タブレットの借入れ　459台",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4bc513a7e213650d.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "大阪府",
+      "location": "大阪府",
+      "title": "建設ＣＡＬＳシステム等基本構想策定業務",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/54213244e032a981.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "広島市",
+      "location": "広島県",
+      "title": "広島市立学校窓ガラス等清掃業務（安佐北区） 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/566f160b5da1c1e7.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "横浜市",
+      "location": "神奈川県",
+      "title": "次期福祉保健システム（仮称）標準化移行等業務委託 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/5fab94af06aa4356.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "宮城県",
+      "location": "宮城県",
+      "title": "捜査用カメラ賃貸借 １式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/6d0cd2e0c7ccd197.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "横浜市",
+      "location": "神奈川県",
+      "title": "救助工作車 ２台の製造",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/722a2ed8e425b168.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "広島市",
+      "location": "広島県",
+      "title": "広島市立学校窓ガラス等清掃業務（中区（広瀬小学校を除く。）・南区） 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7a7726b90089af67.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "栃木県",
+      "location": "栃木県",
+      "title": "ベル式４２９型ヘリコプター（ＪＡ１５ＴＰ）耐空検査整備（付属品一式を含む。）１式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8e4bc4d16b752774.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "滋賀県",
+      "location": "滋賀県",
+      "title": "滋賀県衛生科学センター整備事業に係る実験什器等整備業務 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/962e82c62d38989e.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "横浜市",
+      "location": "神奈川県",
+      "title": "令和８年度 消防艇「よこはま」定期検査受検整備及び長寿命化整備 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/98733a17912887e7.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "愛知県",
+      "location": "愛知県",
+      "title": "港特別支援学校空調機器賃貸借　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9dfdcb5f8abd1fd3.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "新潟県",
+      "location": "新潟県",
+      "title": "微量薬物分析装置賃貸借",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a0e44c6e8c5a4659.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "広島市",
+      "location": "広島県",
+      "title": "広島市立学校窓ガラス等清掃業務（幼稚園・特別支援学校）一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a54ea4074460d2f1.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "横浜市",
+      "location": "神奈川県",
+      "title": "避難所用簡易ベッド ３，３００台の購入",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/abe948985a988269.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "広島市",
+      "location": "広島県",
+      "title": "広島市立学校窓ガラス等清掃業務（東区・安芸区） 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b064ad129243a749.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "島根県",
+      "location": "島根県",
+      "title": "高等学校等教育改革促進事業「島根県学びのデザイン支援センター」構築・運用業務 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bad488fd693a112d.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "愛媛県",
+      "location": "愛媛県",
+      "title": "テント型パーティションの購入",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bcabae0b3f2099e1.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "広島市",
+      "location": "広島県",
+      "title": "ア 広島市立学校窓ガラス等清掃業務（西区・広瀬小学校）一式 イ 広島市立学校窓ガラス等清掃業務（佐伯区（石内北小学校を除く。）） 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ca55f77a32066f5c.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月18日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "① ちば野菊の里浄水場水道用ポリ塩化アルミニウム 予定数量 １，５６３，０００キログラム ② 柏井浄水場水道用ポリ塩化アルミニウム 予定数量 ５，２４０，０００キログラム ③ 柏井浄水場水道用液体苛性ソーダ（...",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/fd54c22c8b45a2f7.html",
+      "paKind": ""
+    }
+  ]
+}
