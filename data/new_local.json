@@ -1,227 +1,326 @@
 {
-  "collected_at": "2026-08-21T07:05:31Z",
+  "collected_at": "2026-08-24T07:17:46Z",
   "window": {
-    "from": "2026/07/22",
-    "to": "2026/08/21"
+    "from": "2026/07/25",
+    "to": "2026/08/24"
   },
-  "server_total": 1502,
-  "collected": 1502,
+  "server_total": 1405,
+  "collected": 1405,
   "count_match": true,
   "by_feed": {
-    "local": 524,
-    "national": 978
+    "local": 490,
+    "national": 915
   },
   "new_by_feed": {
-    "local": 23,
-    "national": 79
+    "local": 34,
+    "national": 46
   },
-  "new_count": 23,
+  "new_count": 34,
   "new_items": [
     {
       "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "公立大学法人首都大学東京",
-      "location": "東京都",
-      "title": "東京都立大学生成ＡＩサービスライセンスの提供業務委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2a2ffd06cb45dffc.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "長野県",
-      "location": "長野県",
-      "title": "塩化ナトリウム　900トン（予定数量）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/345a33e16b9fe1f2.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "川崎市",
-      "location": "神奈川県",
-      "title": "ア 軽油Ａ（１１月１日～１１月３０日分） ５０キロリットル イ 軽油Ｂ（１１月１日～１１月３０日分） ９２キロリットル ウ 軽油Ｃ（１１月１日～１１月３０日分） ６８キロリットル エ 軽油Ｄ（１１月１日～１...",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3dc8feadba849e45.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "長野県",
-      "location": "長野県",
-      "title": "塩化ナトリウム　940トン（予定数量）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3df80f89711a24de.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "長野県",
-      "location": "長野県",
-      "title": "塩化ナトリウム　2,500トン（予定数量）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/405bfacdcd4aab9a.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "長野県",
-      "location": "長野県",
-      "title": "塩化ナトリウム　780トン（予定数量）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/45bfdf9d0811e731.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "長野県",
-      "location": "長野県",
-      "title": "塩化ナトリウム　2,130トン（予定数量）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/45ef003acc562601.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "長野県",
-      "location": "長野県",
-      "title": "塩化ナトリウム　1,700トン（予定数量）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/48646df895d8eaae.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "長野県",
-      "location": "長野県",
-      "title": "塩化カルシウム　600トン（予定数量）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4df214074e093c8f.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "長野県",
-      "location": "長野県",
-      "title": "高解像度ネットワークカメラ　20台",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/5147df8026c9b5a0.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "長野県",
-      "location": "長野県",
-      "title": "情報産業機器設備　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/773f12b2b9483c45.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "川崎市",
-      "location": "神奈川県",
-      "title": "令和８年度川崎市立川崎総合科学高等学校教育用ＩＣＴ機器等賃貸借契約",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/83fcd54e944d3b2f.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "岡山市",
-      "location": "岡山県",
-      "title": "路線バス仕様車（小型バス車両） ２台",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8926f7bbcdff2800.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "長野県",
-      "location": "長野県",
-      "title": "ＣＩＭシステム　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/96ece5cdcb33fcec.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "川崎市",
-      "location": "神奈川県",
-      "title": "川崎市行政情報システムへのデジタル操作ガイド導入業務委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a15abda0c9be051d.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "川崎市",
-      "location": "神奈川県",
-      "title": "庁内情報環境整備に係るパソコン等の賃貸借及び保守契約（令和９年３月３１日導入分）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b2b9bf7722d460de.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "長野県",
-      "location": "長野県",
-      "title": "塩化ナトリウム　1,100トン（予定数量）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bb6f1789333acf20.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "長野県",
-      "location": "長野県",
-      "title": "塩化ナトリウム　850トン（予定数量）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c3a43605ded01d5f.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月19日",
-      "agency": "地方独立行政法人広島県立病院機構",
-      "location": "広島県",
-      "title": "広島県立病院機構給食業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d3416401c9651681.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "千葉市",
+      "date": "2026年08月21日",
+      "agency": "千葉県",
       "location": "千葉県",
-      "title": "千葉市家庭用指定袋（ごみ袋）製造業務委託（令和８年度第３期）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/db8aca433a8575fd.html",
+      "title": "令和８年度ヘリコプターかとり１号（レオナルド式ＡＷ１３９型、ＪＡ９１ＣＰ）１６年目定期耐空証明更新基本整備 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/002e063098c62dbb.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "地方独立行政法人神奈川県立病院機構",
+      "date": "2026年08月21日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県立安房特別支援学校スクールバス運行業務委託(その２) 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/22bf425ed0fc9d17.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "岐阜県",
+      "location": "岐阜県",
+      "title": "凍結防止剤(塩化ナトリウム及び塩化カルシウム) 計1,244,000kg",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/29bb415d421b0bb8.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県立関宿高等学校普通教室・管理諸室・特別教室空調設備賃貸借 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/36745a5b30af2195.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県立京葉工業高等学校管理諸室・特別教室空調設備賃貸借 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3b1eb3011a5b96bf.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県立幕張総合高等学校管理諸室・特別教室空調設備賃貸借 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3b8f9c3517cdea1d.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "石川県",
+      "location": "石川県",
+      "title": "分析走査電子顕微鏡システム賃貸借　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3dbbdaf8711bbfcc.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "地方独立行政法人大阪府立環境農林水産総合研究所",
+      "location": "大阪府",
+      "title": "液体クロマトグラフ質量分析計一式の賃貸借",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/49e0464c17b7ea73.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "和歌山県",
+      "location": "和歌山県",
+      "title": "令和8年度和歌山県旅費システム構築委託・運用保守及び機器等賃貸借",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4d29c37411944870.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "宮城県",
+      "location": "宮城県",
+      "title": "電子制御技術科実習装置 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4e57aea3d4ffd7dc.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県立八街高等学校特別教室空調設備賃貸借 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/53b9bbdfc025223e.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "石川県",
+      "location": "石川県",
+      "title": "石川県立田鶴浜高等学校仮設校舎の賃貸借　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/549331a78822c653.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "福島県",
+      "location": "福島県",
+      "title": "福島県県北保健福祉事務所ほか15施設で使用する電気 予定数量3,147,400kWh",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/560c0a56116323aa.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県立槇の実特別支援学校スクールバス運行業務委託 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/662a3888a9b61e86.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "宮城県",
+      "location": "宮城県",
+      "title": "金属加工機械 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7080cc59050c44ef.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県立清水高等学校管理諸室・特別教室空調設備賃貸借 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/72a126c96e640d32.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県立東総工業高等学校管理諸室・特別教室空調設備賃貸借 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7ce85df813886f1c.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県立安房特別支援学校スクールバス運行業務委託(その１) 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7e15e01a491cd3b1.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "心血管撮影装置 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7fdc8456e1da3e54.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県立流山高等学校普通教室・管理諸室・特別教室空調設備賃貸借 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8c2d61784ce734e4.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "北海道",
+      "location": "北海道",
+      "title": "刑事手続用ＩＴ関連機器の賃貸借　一式（１月当たりの単価）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8c5ae4b4866d5759.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県立市川工業高等学校管理諸室・特別教室空調設備賃貸借 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8dc2e645b3905ca1.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "公立大学法人名古屋市立大学",
+      "location": "愛知県",
+      "title": "自動薬剤ピッキング装置 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/928d9977f9ef95ea.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県立君津商業高等学校管理諸室・特別教室空調設備賃貸借 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9878c91a1e6900ad.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "宮城県",
+      "location": "宮城県",
+      "title": "工作機械 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9eee14d6001d5765.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県立松戸向陽高等学校普通教室・管理諸室・特別教室空調設備賃貸借 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a34cf6ba1dceb8e5.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県立千葉工業高等学校管理諸室・特別教室空調設備賃貸借 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a4470645eb2a49e2.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "長崎県",
+      "location": "長崎県",
+      "title": "８入札第46号　高速液体クロマトグラフタンデム質量分析装置　１式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a5b0b52583352bfc.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "神奈川県",
       "location": "神奈川県",
-      "title": "超音波画像診断装置一式の購入（２病院共同購入）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/dd4b8e202f90e3a1.html",
+      "title": "管路情報システム用機器の賃貸借及び保守 モノクロレーザープリンタ11台、カラープロッタ（Ａ0 対応） 3 台、カラープロッタ（Ａ1 対応）13台及びカラースキャナ12台",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/acb7fa552f767e25.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "宮崎県",
-      "location": "宮崎県",
-      "title": "宮崎県指定難病等医療費助成システム構築・導入業務（以下「本業務」という。）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e51738ae43274c56.html",
+      "date": "2026年08月21日",
+      "agency": "宮城県",
+      "location": "宮城県",
+      "title": "令和９年度情報通信ネットワーク構築支援業務 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/acff769c43a2db07.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年08月20日",
-      "agency": "長野県",
-      "location": "長野県",
-      "title": "塩化カルシウム　1,350トン（予定数量）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/fab273f20b510821.html",
+      "date": "2026年08月21日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県立一宮商業高等学校管理諸室・特別教室空調設備賃貸借 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b2492a274b9a2090.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "山形県",
+      "location": "山形県",
+      "title": "多目的デジタルＸ線ＴＶシステム　二式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b857e64e2ebd5843.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "大分県",
+      "location": "大分県",
+      "title": "庁内無線ＬＡＮ機器等一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ce19d53ef7ab078b.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月21日",
+      "agency": "長崎県",
+      "location": "長崎県",
+      "title": "統合原子力防災ネットワーク機器賃貸借",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/fe78ff60004e6f8f.html",
       "paKind": ""
     }
   ]
