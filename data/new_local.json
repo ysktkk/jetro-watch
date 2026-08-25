@@ -1,326 +1,236 @@
 {
-  "collected_at": "2026-08-24T07:17:46Z",
+  "collected_at": "2026-08-25T07:06:27Z",
   "window": {
-    "from": "2026/07/25",
-    "to": "2026/08/24"
+    "from": "2026/07/26",
+    "to": "2026/08/25"
   },
-  "server_total": 1405,
-  "collected": 1405,
+  "server_total": 1455,
+  "collected": 1455,
   "count_match": true,
   "by_feed": {
-    "local": 490,
-    "national": 915
+    "local": 514,
+    "national": 941
   },
   "new_by_feed": {
-    "local": 34,
-    "national": 46
+    "local": 24,
+    "national": 29
   },
-  "new_count": 34,
+  "new_count": 24,
   "new_items": [
     {
       "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "令和８年度ヘリコプターかとり１号（レオナルド式ＡＷ１３９型、ＪＡ９１ＣＰ）１６年目定期耐空証明更新基本整備 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/002e063098c62dbb.html",
+      "date": "2026年08月24日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "ＰＴＡバルーンカテーテル外204点の購入(数量概算契約)(広尾病院)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0885b9ca3d33ce74.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "千葉県立安房特別支援学校スクールバス運行業務委託(その２) 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/22bf425ed0fc9d17.html",
+      "date": "2026年08月24日",
+      "agency": "茨城県",
+      "location": "茨城県",
+      "title": "合格表示システム機器の賃貸借",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2d1e78db4d875c2f.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "岐阜県",
-      "location": "岐阜県",
-      "title": "凍結防止剤(塩化ナトリウム及び塩化カルシウム) 計1,244,000kg",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/29bb415d421b0bb8.html",
+      "date": "2026年08月24日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "ノンロッキングスクリュー外331点の購入（数量概算契約）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3a5521ca57e60314.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "千葉県立関宿高等学校普通教室・管理諸室・特別教室空調設備賃貸借 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/36745a5b30af2195.html",
+      "date": "2026年08月24日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "植込み型除細動器外233点の購入(数量概算契約)(広尾病院)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/447c86a30f631796.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "千葉県立京葉工業高等学校管理諸室・特別教室空調設備賃貸借 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3b1eb3011a5b96bf.html",
+      "date": "2026年08月24日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "バイオロジカルインディケーター外423点の購入(数量概算契約)(広尾病院)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4ce7fba5a7e4c604.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "千葉県立幕張総合高等学校管理諸室・特別教室空調設備賃貸借 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3b8f9c3517cdea1d.html",
+      "date": "2026年08月24日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "カセット収納ボックス外395点の購入(数量概算契約)(広尾病院)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/525224fbf4bd7512.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "石川県",
-      "location": "石川県",
-      "title": "分析走査電子顕微鏡システム賃貸借　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3dbbdaf8711bbfcc.html",
+      "date": "2026年08月24日",
+      "agency": "熊本市",
+      "location": "熊本県",
+      "title": "熊本市上下水道局水運用センターシステム賃貸借",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/65b1b054daef4217.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "地方独立行政法人大阪府立環境農林水産総合研究所",
+      "date": "2026年08月24日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "組織分離収納サック外409点の購入（数量概算契約）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/693cad662343ee6d.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月24日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "過酸化水素カセット外483点の購入（数量概算契約）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/70c6b118b9c6b4ad.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月24日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "計量カップ外505点の購入（数量概算契約）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/82d84684a945cd00.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月24日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "超音波検査用ジェル外560点の購入（数量概算契約）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8c8b24e96fac0492.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月24日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "血管内カテーテル外447点の購入 (数量概算契約)(広尾病院)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/922c1335734beea0.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月24日",
+      "agency": "茨城県",
+      "location": "茨城県",
+      "title": "交通管制システム用通信回線サービス提供契約",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9ea008ca4903403e.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月24日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "血管内異物除去用カテーテル外140点の購入(数量概算契約)(広尾病院)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a5c18006ca29251d.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月24日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "感熱記録紙外322点の購入(数量概算契約)(広尾病院)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a8bfbcaee826aea2.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月24日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "ＶＦジェネラルプレート外422点の購入(数量概算契約)(広尾病院)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b7d6b4a765f7bc73.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年08月24日",
+      "agency": "地方独立行政法人大阪市民病院機構",
       "location": "大阪府",
-      "title": "液体クロマトグラフ質量分析計一式の賃貸借",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/49e0464c17b7ea73.html",
+      "title": "地方独立行政法人大阪市民病院機構情報基盤の構築・移行業務委託、及びクラウドサービス提供業務",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bd728258d9b194fd.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "和歌山県",
-      "location": "和歌山県",
-      "title": "令和8年度和歌山県旅費システム構築委託・運用保守及び機器等賃貸借",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4d29c37411944870.html",
+      "date": "2026年08月24日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "過酸化水素ガス除染滅菌用インジケータ外630点の購入(数量概算契約)(広尾病院)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d3415e90c7f96183.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "宮城県",
-      "location": "宮城県",
-      "title": "電子制御技術科実習装置 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4e57aea3d4ffd7dc.html",
+      "date": "2026年08月24日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "テクリスタマブ外12点の買入れ（数量概算契約）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d64716b058b03726.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "千葉県立八街高等学校特別教室空調設備賃貸借 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/53b9bbdfc025223e.html",
+      "date": "2026年08月24日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "CT撮影装置2式の買入れ及び保守委託",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/dca0783c429d96af.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "石川県",
-      "location": "石川県",
-      "title": "石川県立田鶴浜高等学校仮設校舎の賃貸借　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/549331a78822c653.html",
+      "date": "2026年08月24日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "脳波検査用導電ペースト外398点の購入（数量概算契約）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e41ab70973a70c93.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "福島県",
-      "location": "福島県",
-      "title": "福島県県北保健福祉事務所ほか15施設で使用する電気 予定数量3,147,400kWh",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/560c0a56116323aa.html",
+      "date": "2026年08月24日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "縫合糸外77点の購入 (数量概算契約)(広尾病院)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ea2ea40f879f4178.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "千葉県立槇の実特別支援学校スクールバス運行業務委託 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/662a3888a9b61e86.html",
+      "date": "2026年08月24日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "東村山浄水場薬品注入設備改良工事",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/eca3c75bb2b328a8.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "宮城県",
-      "location": "宮城県",
-      "title": "金属加工機械 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7080cc59050c44ef.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "千葉県立清水高等学校管理諸室・特別教室空調設備賃貸借 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/72a126c96e640d32.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "千葉県立東総工業高等学校管理諸室・特別教室空調設備賃貸借 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7ce85df813886f1c.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "千葉県立安房特別支援学校スクールバス運行業務委託(その１) 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7e15e01a491cd3b1.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "心血管撮影装置 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7fdc8456e1da3e54.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "千葉県立流山高等学校普通教室・管理諸室・特別教室空調設備賃貸借 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8c2d61784ce734e4.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "北海道",
-      "location": "北海道",
-      "title": "刑事手続用ＩＴ関連機器の賃貸借　一式（１月当たりの単価）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8c5ae4b4866d5759.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "千葉県立市川工業高等学校管理諸室・特別教室空調設備賃貸借 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8dc2e645b3905ca1.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "公立大学法人名古屋市立大学",
-      "location": "愛知県",
-      "title": "自動薬剤ピッキング装置 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/928d9977f9ef95ea.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "千葉県立君津商業高等学校管理諸室・特別教室空調設備賃貸借 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9878c91a1e6900ad.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "宮城県",
-      "location": "宮城県",
-      "title": "工作機械 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9eee14d6001d5765.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "千葉県立松戸向陽高等学校普通教室・管理諸室・特別教室空調設備賃貸借 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a34cf6ba1dceb8e5.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "千葉県立千葉工業高等学校管理諸室・特別教室空調設備賃貸借 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a4470645eb2a49e2.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "長崎県",
-      "location": "長崎県",
-      "title": "８入札第46号　高速液体クロマトグラフタンデム質量分析装置　１式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a5b0b52583352bfc.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "管路情報システム用機器の賃貸借及び保守 モノクロレーザープリンタ11台、カラープロッタ（Ａ0 対応） 3 台、カラープロッタ（Ａ1 対応）13台及びカラースキャナ12台",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/acb7fa552f767e25.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "宮城県",
-      "location": "宮城県",
-      "title": "令和９年度情報通信ネットワーク構築支援業務 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/acff769c43a2db07.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "千葉県立一宮商業高等学校管理諸室・特別教室空調設備賃貸借 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b2492a274b9a2090.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "山形県",
-      "location": "山形県",
-      "title": "多目的デジタルＸ線ＴＶシステム　二式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b857e64e2ebd5843.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "大分県",
-      "location": "大分県",
-      "title": "庁内無線ＬＡＮ機器等一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ce19d53ef7ab078b.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年08月21日",
-      "agency": "長崎県",
-      "location": "長崎県",
-      "title": "統合原子力防災ネットワーク機器賃貸借",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/fe78ff60004e6f8f.html",
+      "date": "2026年08月24日",
+      "agency": "富山県",
+      "location": "富山県",
+      "title": "電子計算組織（高等学校８校、特別支援学校５校）ＰＣ 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/fdb88b85abe915d0.html",
       "paKind": ""
     }
   ]
