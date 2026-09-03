@@ -1,524 +1,299 @@
 {
-  "collected_at": "2026-09-02T11:13:13Z",
+  "collected_at": "2026-09-03T11:09:18Z",
   "window": {
-    "from": "2026/08/03",
-    "to": "2026/09/02"
+    "from": "2026/08/04",
+    "to": "2026/09/03"
   },
-  "server_total": 1507,
-  "collected": 1507,
+  "server_total": 1431,
+  "collected": 1431,
   "count_match": true,
   "by_feed": {
-    "local": 543,
-    "national": 964
+    "local": 545,
+    "national": 886
   },
   "new_by_feed": {
-    "local": 56,
-    "national": 31
+    "local": 31,
+    "national": 30
   },
-  "new_count": 56,
+  "new_count": 31,
   "new_items": [
     {
       "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県立相模原中央支援学校マイクロバス運行業務委託（東コース）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/005f9fc062f068f1.html",
+      "date": "2026年09月02日",
+      "agency": "神戸市",
+      "location": "兵庫県",
+      "title": "大型ごみ収集運搬業務（Ｂ地区）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0839ddab1f7f344e.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県立武山支援学校マイクロバス運行業務委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0489f541cc9299e5.html",
+      "date": "2026年09月02日",
+      "agency": "名古屋市",
+      "location": "愛知県",
+      "title": "児童生徒机（旧ＪＩＳ規格） 3,763個 児童生徒腰掛（旧ＪＩＳ規格） 5,314個",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1847a4e795414246.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "埼玉県",
-      "location": "埼玉県",
-      "title": "第７次埼玉県議会情報ネットワーク構成機器賃貸借及び運用保守業務 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/063bfe6d82696e45.html",
+      "date": "2026年09月02日",
+      "agency": "神戸市",
+      "location": "兵庫県",
+      "title": "妙賀山クリーンセンターごみ中継運搬業務",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1db9e90ca2ddc91c.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "群馬県",
-      "location": "群馬県",
-      "title": "ア 塩化カルシウム球状（粒状）正味25kg 入 13,000kg（520袋） イ 塩化ナトリウム粒状 正味25kg 入 2,000kg（80袋） ウ 塩化カルシウム球状（粒状）正味500kg 入 370,000kg（740袋） エ 塩化カルシウム球状（粒状...",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/12729623ff664654.html",
+      "date": "2026年09月02日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和８年度長沢浄水場外３か所水道用粉末活性炭(ドライ炭)買入単価契約(下期)(その１)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1ef6ffc874494cee.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "京都市",
-      "location": "京都府",
-      "title": "京都市健康管理システム再構築等業務委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/12e90502b09aa70a.html",
+      "date": "2026年09月02日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和８年度金町浄水場外６か所水道用ポリ塩化アルミニウム買入単価契約(下期)(その１)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/35209fe31d913c12.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県立相模原中央支援学校マイクロバス運行業務委託（南コース）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/13d688125bb05203.html",
+      "date": "2026年09月02日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和８年度東村山浄水場外10か所水道用ポリ塩化アルミニウム買入単価契約(下期)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/39253c4ea7c8549b.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月01日",
+      "date": "2026年09月02日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和８年度東村山浄水場外６か所水道用濃硫酸買入単価契約(下期)(その１)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/579afc033cb556a7.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月02日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和８年度朝霞浄水場外６か所水道用濃硫酸買入単価契約(下期)(その１)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/5e4c6ac26dfbd50e.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月02日",
+      "agency": "浜松市",
+      "location": "静岡県",
+      "title": "令和８年度 成績管理システム及びネットワーク機器等賃貸借",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/641006b1c640547b.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月02日",
+      "agency": "名古屋市",
+      "location": "愛知県",
+      "title": "軽油（11月分）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/67be87ea7228482b.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月02日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和８年度朝霞浄水場外６か所水道用ポリ塩化アルミニウム買入単価契約(下期)(その１)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/6e5b85c175d5e98b.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月02日",
+      "agency": "神戸市",
+      "location": "兵庫県",
+      "title": "行政用ファクシミリ借上",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/718024a25787a923.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月02日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和８年度三郷浄水場外６か所水道用ポリ塩化アルミニウム買入単価契約(下期)(その１)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7586a30019446f08.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月02日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和８年度三園浄水場外３か所水道用超高塩基度ポリ塩化アルミニウム買入単価契約(下期)(その１)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/76e05175cf593a10.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月02日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和８年度東村山浄水場外19か所水道用次亜塩素酸ナトリウム買入単価契約(下期)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7aecd31a64db73e1.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月02日",
+      "agency": "堺市",
+      "location": "大阪府",
+      "title": "堺市立斎場で使用する電気",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/84bc0279f7ac2437.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月02日",
+      "agency": "神戸市",
+      "location": "兵庫県",
+      "title": "令和８年度大型水槽付消防自動車(４名仕様）の製作（２回目）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/88871e008fbdfc88.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月02日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和８年度金町浄水場外６か所水道用濃硫酸買入単価契約(下期)(その１)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/89cab9a8f7dee99b.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月02日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和８年度朝霞浄水場外５か所水道用水酸化ナトリウム(水道用液体苛性ソーダ)買入単価契約(下期)(その１)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/91fe42a35ddcd5e2.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月02日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和８年度金町浄水場外５か所水道用水酸化ナトリウム(水道用液体苛性ソーダ)買入単価契約(下期)(その１)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/924fd6dd73a6cbd8.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月02日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和８年度三郷浄水場外２か所水道用粉末活性炭(ウェット炭)買入単価契約(下期)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/97217449ec68e993.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月02日",
+      "agency": "名古屋市",
+      "location": "愛知県",
+      "title": "自動券売機の更新（令和8年度発注分）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9a00728cf9b494eb.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月02日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和８年度金町浄水場外16か所水道用次亜塩素酸ナトリウム買入単価契約(下期)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a50de79f1d0c89cd.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月02日",
+      "agency": "神戸市",
+      "location": "兵庫県",
+      "title": "大型ごみ収集運搬業務（Ａ地区）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a57840ecff49096c.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月02日",
       "agency": "仙台市",
       "location": "宮城県",
-      "title": "第6世代仙台市財務会計システム構築及び運用保守業務委託 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/188683c31115882b.html",
+      "title": "① 仙台市業務間連携システム等機器賃貸借 一式 ② 仙台市博物館電力需給 1,786,000kWh",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ad1173978fe37f20.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県立あおば支援学校マイクロバス運行業務委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1b488a66db8a2b71.html",
+      "date": "2026年09月02日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "特種用途自動車(小型ポンプ車(ハイルーフ・水槽付き))外１点の買入れ",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b35fc8295640f7b7.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県立鶴見支援学校マイクロバス運行業務委託（2コース）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/241411eb804ad975.html",
+      "date": "2026年09月02日",
+      "agency": "地方独立行政法人神戸市民病院機構",
+      "location": "兵庫県",
+      "title": "神戸市立西神戸医療センター検体検査業務委託",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bff76ba755ebeb90.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県立相模原支援学校マイクロバス運行業務委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/26bdc9082306b4d5.html",
+      "date": "2026年09月02日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和８年度朝霞浄水場外20か所水道用次亜塩素酸ナトリウム買入単価契約(下期)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c140eac466742060.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県河川情報管理システム構築業務委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2715d68cd8032f9e.html",
+      "date": "2026年09月02日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和８年度東村山浄水場外３か所水道用粉末活性炭(ドライ炭)買入単価契約(下期)(その１)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d57bcd8ac837544e.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県立保土ケ谷支援学校マイクロバス運行業務委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/293aa24856f8ed10.html",
+      "date": "2026年09月02日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和８年度東村山浄水場外５か所水道用水酸化ナトリウム(水道用液体苛性ソーダ)買入単価契約(下期)(その１)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e27bff9dc2f11967.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "大阪府",
-      "location": "大阪府",
-      "title": "大阪府立港高等学校他５校に係る環境整備清掃等業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2db00404fa521914.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県立相模原中央支援学校マイクロバス運行業務委託（北コース）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/32b00bbb8d713b16.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "大阪府",
-      "location": "大阪府",
-      "title": "大阪府立千里青雲高等学校他４校に係る環境整備清掃等業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3f7b118fe767b4d2.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "福岡県",
-      "location": "福岡県",
-      "title": "食品成分分析装置（８備出23）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/42e0e1a97d6641d8.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "公立大学法人奈良県立医科大学",
-      "location": "奈良県",
-      "title": "検体検査自動化システム及び各種免疫検査測定装置一式の納入",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/467b8c6a66a0b37f.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "大阪府",
-      "location": "大阪府",
-      "title": "大阪府立金剛高等学校他５校に係る環境整備清掃等業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/59e07461c96f355a.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
+      "date": "2026年09月02日",
       "agency": "大阪市",
       "location": "大阪府",
-      "title": "測量計算ＣＡＤシステム機器 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/5a3ae26b203ccc02.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "北海道",
-      "location": "北海道",
-      "title": "貨物兼乗用自動車　１台",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/5d1f65bd1de025a3.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "大阪府",
-      "location": "大阪府",
-      "title": "大阪府立池田高等学校他４校に係る環境整備清掃等業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/610fad1b63974282.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "大阪府",
-      "location": "大阪府",
-      "title": "大阪府立東住吉高等学校他４校に係る環境整備清掃等業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/665ccfdf39671eb5.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県立麻生支援学校マイクロバス運行業務委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7109c99f2ae65bff.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県立瀬谷支援学校マイクロバス運行業務委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/776f10b8f013c1f1.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "大阪府",
-      "location": "大阪府",
-      "title": "災害備蓄用レトルトパウチ食品（米飯類） 256,800食",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7833ddb5aec80081.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県立鶴見支援学校マイクロバス運行業務委託（1コース）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8747773e400e0a67.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県立みどり支援学校マイクロバス運行業務委託（高等部マイクロバス）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/890790b31117c9f6.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "北海道",
-      "location": "北海道",
-      "title": "交通パトカー　７台",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8b32515e3f2dfbcb.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "山形県",
-      "location": "山形県",
-      "title": "ガスクロマトグラフ質量分析装置の賃貸借及び保守サービス　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8ea76233368ede4c.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "群馬県",
-      "location": "群馬県",
-      "title": "ア 凍結防止剤球状（粒状）（塩化カルシウム500kg/袋） 870,000kg（1,740袋） イ 凍結防止剤球状（粒状）（塩化カルシウム500kg/袋） 320,000kg（640袋） ウ 凍結防止剤球状（粒状）（塩化カルシウム500kg/袋） 2...",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/928a6ba5e4fe93ac.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県立金沢支援学校マイクロバス運行業務委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/940c7a6c3edc8267.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県立小田原支援学校マイクロバス運行業務委託（Ｇコース）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9482ef62fa53e2e1.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "岡山県",
-      "location": "岡山県",
-      "title": "岡山県工業技術センターで使用する電気の調達",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/979cb0f8d7572bf7.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県立小田原支援学校マイクロバス運行業務委託（Ｈコース）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9c183b93d46db20b.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "群馬県",
-      "location": "群馬県",
-      "title": "ア Ａ重油ＪＩＳ１種１号 ４９６，０００リットル イ 白灯油ＪＩＳ１号 ５１，０００リットル",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9c91da2b7620fe1f.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県立藤沢支援学校マイクロバス運行業務委託（湘南コース）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9f570593e2a7df56.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "高知県",
-      "location": "高知県",
-      "title": "高知県警察本部庁舎で使用する電気　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9f9cf8836144f737.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "静岡県",
-      "location": "静岡県",
-      "title": "車両捜査支援システム １式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9fdf3fb1c3b79c26.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "公立大学法人名古屋市立大学",
-      "location": "愛知県",
-      "title": "[8-2-4] 生体情報モニタリングシステム 1式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ab0c705c2e19751b.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県立みどり支援学校マイクロバス運行業務委託（小・中学部マイクロバス）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b8d9ebe47112a493.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "大阪府",
-      "location": "大阪府",
-      "title": "大阪府立鳳高等学校他４校に係る環境整備清掃等業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bc340fc948a3f4de.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "大阪府",
-      "location": "大阪府",
-      "title": "大阪府立泉陽高等学校他４校に係る環境整備清掃等業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bd68e4d9416a3e16.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "北海道",
-      "location": "北海道",
-      "title": "学習用システムパーソナルコンピュータの賃貸借（北海道札幌国際情報高等学校）一式（１月当たりの単価）　42台分",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bd77d0325e7c7f55.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "大阪府",
-      "location": "大阪府",
-      "title": "大阪府立茨木高等学校他４校に係る環境整備清掃等業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c0f79be2c12ac278.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "大阪府",
-      "location": "大阪府",
-      "title": "災害備蓄用レトルトパウチ食品（副菜） 220,000食",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c2b2978cf27714d4.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "岡山県",
-      "location": "岡山県",
-      "title": "走査電子顕微鏡 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c4d8643a3e2db33e.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "新潟県",
-      "location": "新潟県",
-      "title": "通信回線機器等賃貸借",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d05b8c5d1f79b533.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "大阪府",
-      "location": "大阪府",
-      "title": "大阪府立高槻北高等学校他４校に係る環境整備清掃等業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d4b0c3b9a4793dbd.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "大阪府",
-      "location": "大阪府",
-      "title": "大阪府立野崎高等学校他４校に係る環境整備清掃等業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d4dc6d461d2b98ff.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県立湘南支援学校マイクロバス運行業務委託（東コース・西コース）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/dfe2779040cb7391.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "北海道",
-      "location": "北海道",
-      "title": "アグスタ式ＡＷ139型機体（だいせつ１号）４年定期点検　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e07b3fe3102408af.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "大阪府",
-      "location": "大阪府",
-      "title": "大阪府立緑風冠高等学校他４校に係る環境整備清掃等業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e603af41de76bfa8.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "北海道",
-      "location": "北海道",
-      "title": "ア　入札番号１　貨物兼乗用自動車　１台（交換契約により貨物兼乗用自動車１台を契約の相手方に供し、貨物兼乗用自動車１台を契約の相手方から調達する。） イ　入札番号２　乗用自動車　１台（交換契約により乗...",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e63ac5837115e1a0.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "大阪市",
-      "location": "大阪府",
-      "title": "ＬＥＤ照明器具 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e8a7a7100c3763c9.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "石川県",
-      "location": "石川県",
-      "title": "体外式結石破砕装置 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ea58d427879f9999.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月01日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県立高津支援学校マイクロバス運行業務委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ed17e53565b2dae6.html",
+      "title": "災害備蓄用保存食(ビスケット等) 148,000食",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f5d0b773e1132041.html",
       "paKind": ""
     }
   ]
