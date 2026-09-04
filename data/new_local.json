@@ -1,299 +1,74 @@
 {
-  "collected_at": "2026-09-03T11:09:18Z",
+  "collected_at": "2026-09-04T11:12:46Z",
   "window": {
-    "from": "2026/08/04",
-    "to": "2026/09/03"
+    "from": "2026/08/05",
+    "to": "2026/09/04"
   },
-  "server_total": 1431,
-  "collected": 1431,
+  "server_total": 1407,
+  "collected": 1407,
   "count_match": true,
   "by_feed": {
-    "local": 545,
-    "national": 886
+    "local": 510,
+    "national": 897
   },
   "new_by_feed": {
-    "local": 31,
-    "national": 30
+    "local": 6,
+    "national": 37
   },
-  "new_count": 31,
+  "new_count": 6,
   "new_items": [
     {
       "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "神戸市",
-      "location": "兵庫県",
-      "title": "大型ごみ収集運搬業務（Ｂ地区）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0839ddab1f7f344e.html",
+      "date": "2026年09月03日",
+      "agency": "長野県",
+      "location": "長野県",
+      "title": "県立学校等（飯山高等学校以下105施設）で使用する電気 予定契約電力13,991ｋＷ及び予定使用電力量22,633,000ｋＷｈ 各施設の予定契約電力及び予定使用電力量は、仕様書によります。",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/36d22c6411298669.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "名古屋市",
-      "location": "愛知県",
-      "title": "児童生徒机（旧ＪＩＳ規格） 3,763個 児童生徒腰掛（旧ＪＩＳ規格） 5,314個",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1847a4e795414246.html",
+      "date": "2026年09月03日",
+      "agency": "宮崎県",
+      "location": "宮崎県",
+      "title": "宮崎県第３期サーバ統合基盤提供業務",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/491dc4cb68794b2a.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "神戸市",
-      "location": "兵庫県",
-      "title": "妙賀山クリーンセンターごみ中継運搬業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1db9e90ca2ddc91c.html",
+      "date": "2026年09月03日",
+      "agency": "川崎市",
+      "location": "神奈川県",
+      "title": "武蔵小杉駅・武蔵溝ノ口駅・川崎駅周辺地区における防犯カメラ等の賃貸借及び保守業務",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/76666d4cd08474da.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "令和８年度長沢浄水場外３か所水道用粉末活性炭(ドライ炭)買入単価契約(下期)(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1ef6ffc874494cee.html",
+      "date": "2026年09月03日",
+      "agency": "広島県",
+      "location": "広島県",
+      "title": "令和９年度から令和11年度までにおける広島県警察放置車両確認事務委託業務",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8cde23ed8f041878.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "令和８年度金町浄水場外６か所水道用ポリ塩化アルミニウム買入単価契約(下期)(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/35209fe31d913c12.html",
+      "date": "2026年09月03日",
+      "agency": "京都市",
+      "location": "京都府",
+      "title": "烏丸線信号用電源設備改良（北山駅）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a687b44b1ca189c0.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "令和８年度東村山浄水場外10か所水道用ポリ塩化アルミニウム買入単価契約(下期)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/39253c4ea7c8549b.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "令和８年度東村山浄水場外６か所水道用濃硫酸買入単価契約(下期)(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/579afc033cb556a7.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "令和８年度朝霞浄水場外６か所水道用濃硫酸買入単価契約(下期)(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/5e4c6ac26dfbd50e.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "浜松市",
-      "location": "静岡県",
-      "title": "令和８年度 成績管理システム及びネットワーク機器等賃貸借",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/641006b1c640547b.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "名古屋市",
-      "location": "愛知県",
-      "title": "軽油（11月分）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/67be87ea7228482b.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "令和８年度朝霞浄水場外６か所水道用ポリ塩化アルミニウム買入単価契約(下期)(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/6e5b85c175d5e98b.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "神戸市",
-      "location": "兵庫県",
-      "title": "行政用ファクシミリ借上",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/718024a25787a923.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "令和８年度三郷浄水場外６か所水道用ポリ塩化アルミニウム買入単価契約(下期)(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7586a30019446f08.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "令和８年度三園浄水場外３か所水道用超高塩基度ポリ塩化アルミニウム買入単価契約(下期)(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/76e05175cf593a10.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "令和８年度東村山浄水場外19か所水道用次亜塩素酸ナトリウム買入単価契約(下期)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7aecd31a64db73e1.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "堺市",
-      "location": "大阪府",
-      "title": "堺市立斎場で使用する電気",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/84bc0279f7ac2437.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "神戸市",
-      "location": "兵庫県",
-      "title": "令和８年度大型水槽付消防自動車(４名仕様）の製作（２回目）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/88871e008fbdfc88.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "令和８年度金町浄水場外６か所水道用濃硫酸買入単価契約(下期)(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/89cab9a8f7dee99b.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "令和８年度朝霞浄水場外５か所水道用水酸化ナトリウム(水道用液体苛性ソーダ)買入単価契約(下期)(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/91fe42a35ddcd5e2.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "令和８年度金町浄水場外５か所水道用水酸化ナトリウム(水道用液体苛性ソーダ)買入単価契約(下期)(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/924fd6dd73a6cbd8.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "令和８年度三郷浄水場外２か所水道用粉末活性炭(ウェット炭)買入単価契約(下期)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/97217449ec68e993.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "名古屋市",
-      "location": "愛知県",
-      "title": "自動券売機の更新（令和8年度発注分）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9a00728cf9b494eb.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "令和８年度金町浄水場外16か所水道用次亜塩素酸ナトリウム買入単価契約(下期)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a50de79f1d0c89cd.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "神戸市",
-      "location": "兵庫県",
-      "title": "大型ごみ収集運搬業務（Ａ地区）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a57840ecff49096c.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "仙台市",
-      "location": "宮城県",
-      "title": "① 仙台市業務間連携システム等機器賃貸借 一式 ② 仙台市博物館電力需給 1,786,000kWh",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ad1173978fe37f20.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "特種用途自動車(小型ポンプ車(ハイルーフ・水槽付き))外１点の買入れ",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b35fc8295640f7b7.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "地方独立行政法人神戸市民病院機構",
-      "location": "兵庫県",
-      "title": "神戸市立西神戸医療センター検体検査業務委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bff76ba755ebeb90.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "令和８年度朝霞浄水場外20か所水道用次亜塩素酸ナトリウム買入単価契約(下期)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c140eac466742060.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "令和８年度東村山浄水場外３か所水道用粉末活性炭(ドライ炭)買入単価契約(下期)(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d57bcd8ac837544e.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "令和８年度東村山浄水場外５か所水道用水酸化ナトリウム(水道用液体苛性ソーダ)買入単価契約(下期)(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e27bff9dc2f11967.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月02日",
-      "agency": "大阪市",
-      "location": "大阪府",
-      "title": "災害備蓄用保存食(ビスケット等) 148,000食",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f5d0b773e1132041.html",
+      "date": "2026年09月03日",
+      "agency": "広島県",
+      "location": "広島県",
+      "title": "災害時等利用仮想デスクトップシステム",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bbc2a2cd2d252398.html",
       "paKind": ""
     }
   ]
