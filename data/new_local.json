@@ -1,1226 +1,263 @@
 {
-  "collected_at": "2026-09-08T11:12:09Z",
+  "collected_at": "2026-09-09T11:16:58Z",
   "window": {
-    "from": "2026/08/09",
-    "to": "2026/09/08"
+    "from": "2026/08/10",
+    "to": "2026/09/09"
   },
-  "server_total": 1425,
-  "collected": 1425,
+  "server_total": 1470,
+  "collected": 1470,
   "count_match": true,
   "by_feed": {
-    "local": 592,
-    "national": 833
+    "local": 619,
+    "national": 851
   },
   "new_by_feed": {
-    "local": 134,
-    "national": 41
+    "local": 27,
+    "national": 23
   },
-  "new_count": 134,
+  "new_count": 27,
   "new_items": [
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径50mm、75mm(B)の買入れ(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/00268c37ed4cc68c.html",
+      "date": "2026年09月08日",
+      "agency": "岩手県",
+      "location": "岩手県",
+      "title": "いわて教育情報ネットワーク更改に係るＵＴＭ（統合脅威管理）機器 21台",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0077a14f5066816d.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)外１点の買入れ(多摩その６)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/006f420ea326f3ea.html",
+      "date": "2026年09月08日",
+      "agency": "三重県",
+      "location": "三重県",
+      "title": "車両捜査支援システム賃貸借 1式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/01c07d483aad7e82.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径30mm(B)の買入れ(その２)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/00c4b9818a94f058.html",
+      "date": "2026年09月08日",
+      "agency": "横浜市",
+      "location": "神奈川県",
+      "title": "化学消防車（１型）１台の製造",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0ef8ee9cb81c9662.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)外１点の買入れ(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0214820ef1a5413e.html",
+      "date": "2026年09月08日",
+      "agency": "栃木県",
+      "location": "栃木県",
+      "title": "栃木県下水道資源化工場で使用する重油（JIS K2205　１種１号）213kL（購入見込数量）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/118716f8164b9380.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(多摩その２)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/09af8ed8ebdfa2a0.html",
+      "date": "2026年09月08日",
+      "agency": "岐阜県",
+      "location": "岐阜県",
+      "title": "テレワークシステムの構築及び保守業務一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1ddd31cfff1f0c5b.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その４)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0c94c7c2227bb51b.html",
+      "date": "2026年09月08日",
+      "agency": "北海道",
+      "location": "北海道",
+      "title": "ア　凍結防止剤（塩化カルシウム水溶液）（事業課管内定置式）（１キログラム当たりの単価） 415,000キログラム イ　凍結防止剤（塩化カルシウム水溶液）（１キログラム当たりの単価）383,000キログラム ウ　凍結...",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1f8d4f6bf359aed6.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "令和８年度東京港海の森トンネル排水槽及び集水桝等清掃委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0ca9a4e23dd0e551.html",
+      "date": "2026年09月08日",
+      "agency": "埼玉県",
+      "location": "埼玉県",
+      "title": "埼玉県川口地方庁舎ほか15施設で使用する電気 予定使用電力量1,075,670キロワット時",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/276315915a4049e5.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その17)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0d4b6199fb9222da.html",
+      "date": "2026年09月08日",
+      "agency": "山形県",
+      "location": "山形県",
+      "title": "山形県基幹高速通信ネットワーク基幹回線通信サービス　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/377021c730853669.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その３)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0d5b130b262ff1f9.html",
+      "date": "2026年09月08日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県循環器病センター清掃業務 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/387d377788834a37.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その２)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0ec5b33b1e92376b.html",
+      "date": "2026年09月08日",
+      "agency": "宮城県",
+      "location": "宮城県",
+      "title": "古川高等学校仮設校舎賃貸借 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3ae47ea672b2369e.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その27)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0f013ccf5fe0e236.html",
+      "date": "2026年09月08日",
+      "agency": "仙台市",
+      "location": "宮城県",
+      "title": "仙台市図書館情報システム（2028）設計・構築・運用保守業務委託 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/46047179e9082be5.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径50mm、75mm、100mm(A)外１点の買入れ(多摩)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/114ebc275ae0bb78.html",
+      "date": "2026年09月08日",
+      "agency": "埼玉県",
+      "location": "埼玉県",
+      "title": "運転免許証作成システムの賃貸借 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/55af15469c160df8.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "通信機能一体型スマートメータ口径20mm(A)(試行)の買入れ(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/11a7c73d00b69c21.html",
+      "date": "2026年09月08日",
+      "agency": "長崎県",
+      "location": "長崎県",
+      "title": "一般乗合旅客自動車（市内線中型車ノンステップバス３台）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/65105ed768e8955d.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径25mm(A)外１点の買入れ(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/132ec112938c04d3.html",
+      "date": "2026年09月08日",
+      "agency": "横浜市",
+      "location": "神奈川県",
+      "title": "人工心肺装置 一式の購入",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/6bffbd3dc4f4d6b6.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "通信機能一体型スマートメータ口径20mm(A)(試行)の買入れ(多摩その２)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1463a2dff65f924b.html",
+      "date": "2026年09月08日",
+      "agency": "福井県",
+      "location": "福井県",
+      "title": "福井県立科学技術高等学校パソコン室、第２実習室機器等購入および保守業務委託（長期継続契約）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/6d1344b56e106fc2.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径25mm(A)外１点の買入れ(その２)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/169370cc7e45f246.html",
+      "date": "2026年09月08日",
+      "agency": "鹿児島県",
+      "location": "鹿児島県",
+      "title": "据置型デジタル式循環器用Ｘ線透視診断装置 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/6ddbe98edeaa5da8.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(A)の買入れ(多摩その３)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/16daa034d122883d.html",
+      "date": "2026年09月08日",
+      "agency": "神奈川県",
+      "location": "神奈川県",
+      "title": "ア　口径20mm量水器（購入）8,000台、口径25mm量水器（購入）2,500台 イ 口径40mm量水器（購入）700台、口径50mm量水器（購入）300台、口径75mm量水器（購入）60台、口径100mm量水器（購入）30台 ウ　口径13mm量...",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8745d5bd2669a764.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その25)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/16dc9bc9ebd5e806.html",
+      "date": "2026年09月08日",
+      "agency": "岩手県",
+      "location": "岩手県",
+      "title": "凍結抑制剤（塩化ナトリウム） 約2,330トン",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/977b8be57c8b639b.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)(試行・仕様緩和型)外１点の買入れ(その６)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/18b958f33ee5a2e1.html",
+      "date": "2026年09月08日",
+      "agency": "横浜市",
+      "location": "神奈川県",
+      "title": "無線LAN対応IP通話装置（モバイル型） 5,082台ほかの購入",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/aeaad4aeed18fa6a.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(A)の買入れ(多摩その９)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1ac8e8885e9f8e30.html",
+      "date": "2026年09月08日",
+      "agency": "北海道",
+      "location": "北海道",
+      "title": "道庁行政情報ネットワークIPアドレス基盤機器　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/aee6c01067871d5d.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径25mm(B)の買入れ(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1b754e8b0428ef98.html",
+      "date": "2026年09月08日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県総合救急災害医療センター清掃業務 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b58851bb69a8c7f1.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径13mm(A)の買入れ(多摩その３)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1d709e5c50994d49.html",
+      "date": "2026年09月08日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県立佐原病院清掃業務 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b85de19b22dfcb55.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(A)の買入れ(多摩その２)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1fe7af69b6b219ae.html",
+      "date": "2026年09月08日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県こども病院清掃業務 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bf9ea66a420ec294.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径13mm(A)外１点の買入れ(多摩)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/20d34c8db1b66786.html",
+      "date": "2026年09月08日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県がんセンター清掃業務 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ebc24b07b117e114.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その22)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2367b5de7c8b6588.html",
+      "date": "2026年09月08日",
+      "agency": "宮城県",
+      "location": "宮城県",
+      "title": "ア 凍結防止剤（粒状塩化ナトリウム、標準粒径、10 トン車以下、宮城県北部土木事務所栗原地域事務所管内分）（単価契約） 855 トン イ 凍結防止剤（粒状塩化ナトリウム、平均粒径３ミリメートル、４トンユニック...",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f430376e3fe9c648.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径13mm(A)の買入れ(多摩その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2424c17b47e0e629.html",
+      "date": "2026年09月08日",
+      "agency": "地方独立行政法人埼玉県立病院機構",
+      "location": "埼玉県",
+      "title": "医療情報システム運用管理及びネットワーク機器保守業務委託 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f94fdf86f1ddf45c.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)外１点の買入れ(多摩その４)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/25e6d0cbb825d670.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径13mm、20mm(A)の買入れ(多摩)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2a58c5a47ea31c05.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)(試行・仕様緩和型)外１点の買入れ(その４)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2a5a96c8a89911ca.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径13mm(A)外１点の買入れ(その５)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2c73abfb5184e7e0.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)外１点の買入れ(多摩その７)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2dc68a46ac493063.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その15)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3297d6d69d288d0a.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "通信機能一体型スマートメータ口径20mm(A)(試行)の買入れ(その２)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/37af5d1915e7e757.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(A)の買入れ(多摩その８)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3864a7d033a50a42.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径40mm(B)の買入れ(その２)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3e040d53b37944bc.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "地方独立行政法人山口県産業技術センター",
-      "location": "山口県",
-      "title": "加熱ステージ付き走査型電子顕微鏡",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/434cad7577d36aff.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径13mm、20mm(B)の買入れ(その２)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/43f7cc6cafaefe1c.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)(試行・仕様緩和型)外１点の買入れ(その５)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/45119a6d8c6a6ab4.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径25mm(B)の買入れ(その３)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/452bc33697988c47.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径25mm、30mm、40mm(A)の買入れ(多摩)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/45eec9da468fce89.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)外１点の買入れ(その３)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/47ce380ff769de61.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径13mm(B)の買入れ(多摩)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/47cfb89cef7eb0b1.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径13mm(A)外１点の買入れ(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4b10fadbd7df73e6.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その８)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4ecc0adfaad35bd5.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その12)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4f334b195a5c4db5.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)(試行・仕様緩和型)外１点の買入れ(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4f37be3ad0d7bd04.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)(試行・仕様緩和型)外１点の買入れ(その７)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/50cd2e442cff002c.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その18)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/555cf850a2bca822.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径13mm(B)の買入れ(その５)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/56ce094f11d01ed2.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "更衣箱外１点の買入れ(東京都立芦花高等学校外２校)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/57711f063a16f567.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径150mm(A)の買入れ",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/5b6502e5f2203a1e.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)(試行・仕様緩和型)外１点の買入れ(その２)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/5b8cac4da4aa764f.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)外１点の買入れ(その７)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/5d1760aa38e8eee1.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(A)の買入れ(多摩その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/5eff5b615ce313f8.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)(試行・仕様緩和型)外１点の買入れ(その３)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/5f83b54dd5e9b427.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その11)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/658d01b3b32ebe5c.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(A)の買入れ(多摩その11)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/65c824073561d34d.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(多摩その６)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/660ca3e37dc4754d.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径25mm(A)外１点の買入れ(その５)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/66b08d866ff87363.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(多摩その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/6b525c066c754f23.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その10)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7014e6fab43d17c4.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径50mm、75mm(B)の買入れ(その２)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/737aa341b5cf3c73.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その29)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/74a159034ed6b4fe.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "都立調布特別支援学校仮設校舎等の借入れ",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/75e5dcf759190f94.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(多摩その４)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7748a7b07976bc60.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径13mm(A)外１点の買入れ(その４)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/791c4ad3b87cfc86.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径13mm(B)の買入れ(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7a2f58b96726cce7.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)外１点の買入れ(その８)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7caaab1b14d5287a.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)外１点の買入れ(その２)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/801bb25629060297.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "更衣箱外１点の買入れ(東京都立東高等学校外２校)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/81783f505a7c0cd3.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径25mm(A)外１点の買入れ(その３)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/82fc85dd2390c123.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径40mm(A)外１点の買入れ(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8526a53bc0c55ede.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径30mm(A)外１点の買入れ",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/853aa4a14b710f75.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "受信局装置の借入れ",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8598fb1473fbb3ba.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "令和８年度臨海トンネル及び第二航路海底トンネル排水施設清掃委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/85bf79e705e1f19b.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/878dc535b7fcb55f.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径13mm(A)外１点の買入れ(その２)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/885af39ba0a3a21b.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)外１点の買入れ(多摩その２)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/896c3b1f173a6617.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径13mm(B)の買入れ(その４)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8a1f6eb7ccb77a0c.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "通信機能一体型スマートメータ口径20mm(A)(試行)の買入れ(多摩その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8ad471fbb73618c5.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その20)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8c77c6b3079f58bc.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その14)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8ccc2a510cf22336.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "公立大学法人福島県立医科大学",
-      "location": "福島県",
-      "title": "３Ｄ医用画像処理装置一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8e7d24f45e594759.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(A)の買入れ(多摩その10)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8ef9365ffa08ceef.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径13mm(A)の買入れ(多摩その２)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/944435ebd16babea.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(A)の買入れ(多摩その７)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9461dbc0f60ea68b.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径30mm(B)の買入れ(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/947e378ee3d9a7ca.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径13mm、20mm、25mm、30mm、40mm(A)の買入れ",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9530459cf20201fc.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径25mm、30mm、40mm(A)外１点の買入れ(多摩)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/958e093b079c6b5a.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "更衣箱の買入れ(東京都立杉並総合高等学校外１校)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/95d28286b3e9d263.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)外１点の買入れ(その５)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/99068644e3b35997.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(多摩その３)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9d10d76221768afa.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径25mm(B)の買入れ(その２)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a0cd0a24cb9aa9c2.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径40mm(A)外１点の買入れ(その３)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a0d08d562ede933a.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "更衣箱の買入れ(東京都立雪谷高等学校)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a10ea20947efa949.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)外１点の買入れ(多摩その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a20013806444c96f.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径25mm(A)外１点の買入れ(その４)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a2cabc748aa58f0a.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その28)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a8854bfd58260137.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)(試行・仕様緩和型)外１点の買入れ(多摩)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a8a5e166095332a7.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(A)の買入れ(多摩その５)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/aaf04a77a929639e.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その23)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b869e7db229aa91a.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径40mm(B)の買入れ(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b98198b4d9f2c282.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "更衣箱外１点の買入れ(東京都立片倉高等学校外３校)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bfd86795b2d2bdbd.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その21)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c19ad7e9aca39c26.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径150mm、350mm(A)外１点の買入れ(多摩)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c4a6f3c5097ff389.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)外１点の買入れ(多摩その３)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/cb4f33e14c8a41db.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その24)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/cba35d993da13ce5.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)外１点の買入れ(その４)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/cc65f3fd3f9a7e90.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径40mm(A)外１点の買入れ(その４)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/cf4b9208e9a66c9b.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "更衣箱外１点の買入れ(東京都立竹早高等学校外３校)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/cf761b4a83ccc2f0.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径13mm(B)の買入れ(その２)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d5c40faec57e3d84.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(多摩その５)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d798a79081d91ef1.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その９)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/db8ea09d44409f59.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その19)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/dce4c9a16498d8b1.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その６)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/dd12ebba67163f28.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その16)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/dd9e3c3ca9076cea.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)外１点の買入れ(多摩その５)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/de61b1190fda0be1.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "東京都本庁舎用出退勤記録装置の借入れ",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e17936f19ea1e9fc.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "茨城県",
-      "location": "茨城県",
-      "title": "いばらき量子ビーム研究センター等で使用する電気の供給　約3,931,280キロワット時",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e1f6b5b583a66b43.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "日暮里・舎人ライナー車両の製造",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e25f9616182d9d8c.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "大阪府",
-      "location": "大阪府",
-      "title": "大阪府警察施設照明設備ＬＥＤ化工事",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e4acf85f4b6497e2.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径13mm、20mm(B)の買入れ(その１)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e4de387d3558fef7.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径13mm(A)外１点の買入れ(その３)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e525b9090a5ad93b.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その７)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ea381b59920e8ab7.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径13mm(B)の買入れ(その３)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/eaad4a576ad50fa1.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その13)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/eb2d28b3cec82276.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(A)の買入れ(多摩その６)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/eb74776178338813.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)(試行・仕様緩和型)外１点の買入れ(その８)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ed4f5a20e3263220.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その５)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ee31fad5c410d681.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径20mm(A)外１点の買入れ(その６)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/fa09ccb6b0881a7a.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(B)の買入れ(その26)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/fa51d1a804f07b1a.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道スマートメータ口径40mm(A)外１点の買入れ(その２)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/fb839a47fd889be4.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径40mm(B)の買入れ(その３)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/fc408b0d5b6f1278.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月07日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "水道メータ口径20mm(A)の買入れ(多摩その４)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ffa678e6e89fdea8.html",
+      "date": "2026年09月08日",
+      "agency": "福井県",
+      "location": "福井県",
+      "title": "凍結防止剤　塩化ナトリウム（５００ｋｇ袋）７６０ｔ（購入見込量）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/fb93d779d3cf9507.html",
       "paKind": ""
     }
   ]
