@@ -1,146 +1,92 @@
 {
-  "collected_at": "2026-09-17T11:35:47Z",
+  "collected_at": "2026-09-18T11:08:39Z",
   "window": {
-    "from": "2026/08/18",
-    "to": "2026/09/17"
+    "from": "2026/08/19",
+    "to": "2026/09/18"
   },
-  "server_total": 1598,
-  "collected": 1598,
+  "server_total": 1613,
+  "collected": 1613,
   "count_match": true,
   "by_feed": {
-    "local": 669,
-    "national": 929
+    "local": 650,
+    "national": 963
   },
   "new_by_feed": {
-    "local": 14,
-    "national": 60
+    "local": 8,
+    "national": 69
   },
-  "new_count": 14,
+  "new_count": 8,
   "new_items": [
     {
       "feed": "local",
-      "date": "2026年09月16日",
-      "agency": "神戸市",
-      "location": "兵庫県",
-      "title": "軽油の購入（令和８年12月分）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0f9a07db868e259a.html",
+      "date": "2026年09月17日",
+      "agency": "地方独立行政法人長野県立病院機構",
+      "location": "長野県",
+      "title": "超音波診断装置 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/261e1f6947c1cbb0.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月16日",
-      "agency": "東京都",
+      "date": "2026年09月17日",
+      "agency": "公立大学法人首都大学東京",
       "location": "東京都",
-      "title": "短靴(消防団員用)２点の買入れ",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1003738b61600247.html",
+      "title": "ベクトルネットワークアナライザー外26点の買入れ",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/39423095f78a1af3.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月16日",
-      "agency": "高知県公立大学法人",
-      "location": "高知県",
-      "title": "高知県立大学池キャンパスで使用する電力（高圧）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4dd5df2172b467af.html",
+      "date": "2026年09月17日",
+      "agency": "長野県",
+      "location": "長野県",
+      "title": "令和９年度　諏訪湖流域下水道　豊田終末処理場他包括運転管理業務",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/522e8c5ca2b85cde.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月16日",
-      "agency": "新潟市",
-      "location": "新潟県",
-      "title": "新潟市中央卸売市場電話交換設備更新業務 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/66b8380c3f213f8a.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月16日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "東京消防庁四谷消防署合同庁舎外16か所で使用する電気の需給(単価契約)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7bf3d5ba67851b15.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月16日",
-      "agency": "川崎市",
-      "location": "神奈川県",
-      "title": "扇島地区道路・橋りょう整備工事",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ac24e90aab8eded0.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月16日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "人工蘇生器(自動式心マッサージ器)の買入れ",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bcc81fe5a7a41bac.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月16日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "東京消防庁志村消防署外23か所で使用する電気の需給(単価契約)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c0241169a3aed793.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月16日",
-      "agency": "地方独立行政法人東京都立病院機構",
-      "location": "東京都",
-      "title": "次期事務系基盤用サーバ機器等の借入れ",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c29274f2fd35054c.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月16日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "東京消防庁麹町消防署合同庁舎外23か所で使用する電気の需給(単価契約)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/deebd82f51516bee.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月16日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "訓練用人形３点の買入れ(集合)",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e92bc8b7b590aa98.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月16日",
-      "agency": "地方独立行政法人佐賀県医療センター好生館",
-      "location": "佐賀県",
-      "title": "ニュークックチルシステム導入及び導入支援業務 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f1e9633b9e6978f5.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月16日",
-      "agency": "神戸市",
-      "location": "兵庫県",
-      "title": "震災対応訓練設備の購入",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f5905b675ed3a496.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月16日",
-      "agency": "京都市",
+      "date": "2026年09月17日",
+      "agency": "京都府公立大学法人",
       "location": "京都府",
-      "title": "マルチスケールラマン分光システム一式の購入",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f64c40e59fc38df6.html",
+      "title": "京都府立医科大学付属病院で使用する医薬品（別紙のとおり）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b03e59c8323b3306.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月17日",
+      "agency": "公立大学法人首都大学東京",
+      "location": "東京都",
+      "title": "仮想データハイウェイ構築演習システム外３点の買入れ",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/baea521bc401d8e0.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月17日",
+      "agency": "長野県",
+      "location": "長野県",
+      "title": "令和９年度　千曲川流域下水道　上流処理区終末処理場他包括運転管理業務",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c507b3b673d45c3d.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月17日",
+      "agency": "長野県",
+      "location": "長野県",
+      "title": "令和９年度　犀川安曇野流域下水道　安曇野終末処理場他包括運転管理（水の官民連携）業務",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d7969e472290cb5a.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月17日",
+      "agency": "熊本市",
+      "location": "熊本県",
+      "title": "高速液体クロマトグラフ質量分析装置",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d8ee81c0e89e9f20.html",
       "paKind": ""
     }
   ]
