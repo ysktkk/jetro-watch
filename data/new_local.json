@@ -1,93 +1,20 @@
 {
-  "collected_at": "2026-09-18T11:08:39Z",
+  "collected_at": "2026-09-21T12:42:22Z",
   "window": {
-    "from": "2026/08/19",
-    "to": "2026/09/18"
+    "from": "2026/08/22",
+    "to": "2026/09/21"
   },
-  "server_total": 1613,
-  "collected": 1613,
+  "server_total": 1387,
+  "collected": 1387,
   "count_match": true,
   "by_feed": {
-    "local": 650,
-    "national": 963
+    "local": 549,
+    "national": 838
   },
   "new_by_feed": {
-    "local": 8,
-    "national": 69
+    "local": 0,
+    "national": 0
   },
-  "new_count": 8,
-  "new_items": [
-    {
-      "feed": "local",
-      "date": "2026年09月17日",
-      "agency": "地方独立行政法人長野県立病院機構",
-      "location": "長野県",
-      "title": "超音波診断装置 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/261e1f6947c1cbb0.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月17日",
-      "agency": "公立大学法人首都大学東京",
-      "location": "東京都",
-      "title": "ベクトルネットワークアナライザー外26点の買入れ",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/39423095f78a1af3.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月17日",
-      "agency": "長野県",
-      "location": "長野県",
-      "title": "令和９年度　諏訪湖流域下水道　豊田終末処理場他包括運転管理業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/522e8c5ca2b85cde.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月17日",
-      "agency": "京都府公立大学法人",
-      "location": "京都府",
-      "title": "京都府立医科大学付属病院で使用する医薬品（別紙のとおり）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b03e59c8323b3306.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月17日",
-      "agency": "公立大学法人首都大学東京",
-      "location": "東京都",
-      "title": "仮想データハイウェイ構築演習システム外３点の買入れ",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/baea521bc401d8e0.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月17日",
-      "agency": "長野県",
-      "location": "長野県",
-      "title": "令和９年度　千曲川流域下水道　上流処理区終末処理場他包括運転管理業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c507b3b673d45c3d.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月17日",
-      "agency": "長野県",
-      "location": "長野県",
-      "title": "令和９年度　犀川安曇野流域下水道　安曇野終末処理場他包括運転管理（水の官民連携）業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d7969e472290cb5a.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月17日",
-      "agency": "熊本市",
-      "location": "熊本県",
-      "title": "高速液体クロマトグラフ質量分析装置",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d8ee81c0e89e9f20.html",
-      "paKind": ""
-    }
-  ]
+  "new_count": 0,
+  "new_items": []
 }
