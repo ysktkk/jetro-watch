@@ -1,227 +1,722 @@
 {
-  "collected_at": "2026-09-28T13:46:50Z",
+  "collected_at": "2026-09-29T12:45:55Z",
   "window": {
-    "from": "2026/08/29",
-    "to": "2026/09/28"
+    "from": "2026/08/30",
+    "to": "2026/09/29"
   },
-  "server_total": 1360,
-  "collected": 1360,
+  "server_total": 1468,
+  "collected": 1468,
   "count_match": true,
   "by_feed": {
-    "local": 536,
-    "national": 824
+    "local": 614,
+    "national": 854
   },
   "new_by_feed": {
-    "local": 23,
-    "national": 61
+    "local": 78,
+    "national": 38
   },
-  "new_count": 23,
+  "new_count": 78,
   "new_items": [
     {
       "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "令和8年度統合校務パソコンのモニター　2,967台",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/003fc826ddfcb124.html",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "井荻トンネル壁面清掃委託",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/04181b95eaa905cf.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "秋田県",
-      "location": "秋田県",
-      "title": "凍結抑制剤（固形剤散布用塩）500キログラム詰袋入（単価契約） 4,497トン",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0c158e2c669eb58d.html",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(六の１)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/05d3c388b14434eb.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "京都府",
-      "location": "京都府",
-      "title": "ア　京都府営水道事務所宇治浄水場で使用する電力調達　一式 イ　京都府営水道事務所木津浄水場で使用する電力調達　一式 ウ　京都府営水道事務所乙訓浄水場で使用する電力調達　一式 エ　京都府営水道事務所木津...",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0db35e9e75ecbea2.html",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(六の４)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/05ecec3e4e10a88b.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "岡山県",
-      "location": "岡山県",
-      "title": "よう撃カメラ指揮システム及びサブスクカメラシステム機器賃貸借 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/101e35368810fbec.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "地方独立行政法人北九州市立病院機構",
-      "location": "福岡県",
-      "title": "Ｒ８年度医療勤務環境ＤＸ支援事業等に係るモバイル基盤整備業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/175d6e2323f39649.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "大阪市",
-      "location": "大阪府",
-      "title": "市立保育所保育補助管理システム用タブレット型端末（通信回線付） 長期借入（その１） 230台",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/22070f8aed946fc8.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "北海道",
-      "location": "北海道",
-      "title": "乗用自動車の賃貸借（函館建設管理部建設行政室建設行政課）　一式（１月当たりの単価）　１台分",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/22750c37bc1a9d5d.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "愛媛県",
-      "location": "愛媛県",
-      "title": "情報系列端末の購入",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/246e5c04712c04e4.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月25日",
+      "date": "2026年09月28日",
       "agency": "相模原市",
       "location": "神奈川県",
-      "title": "４０５８ 公共施設予約システム機器賃貸借",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2af342f853590c32.html",
+      "title": "４０５９ 公民館等で使用する電力の供給",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0aeb4dfdd04aa423.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "京都府",
-      "location": "京都府",
-      "title": "交番・駐在所用施設管理カメラシステムの賃貸借 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3ec42c6535782aa3.html",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(三の２)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0b8b7ff7e3af0a52.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "京都府公立大学法人",
-      "location": "京都府",
-      "title": "次期ＦＭＳ方式による検体検査共同事業運営委託業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/531a984f0a0a92ea.html",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "管内道路附属物(防護柵等)の清掃委託(一の１)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0efd33a4aa2f06ad.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "鹿児島県",
-      "location": "鹿児島県",
-      "title": "定電流調整器用電源装置（ＣＣＲ－Ｕ）蓄電池 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/53d1ab6d8a11aab9.html",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "新宿歩行者専用地下道ほか清掃委託",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/13e2ab23a5d05d56.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "大阪府",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(北南建の１)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1eb48047fdc5dd6b.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "電話自動応答装置の借入れ",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1f718e52e341e4b9.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(四の２)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/220b5b95ee19137d.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(六の５)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/227eed21ea2fd6f9.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(南西建の２)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/228b3a3f1a0c0cde.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(西建の２)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/240355d2599bb945.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(一の１)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2681ff4f4981dc97.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(四の３)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2c82059321723683.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "植樹帯等清掃委託(９江東)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2e5c44815796c9ae.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "大阪市",
       "location": "大阪府",
-      "title": "取調べ録音・録画装置 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/5ef6470108f1b364.html",
+      "title": "画像伝送システム更新業務委託 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2ec1104ba040c1c3.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "広島市",
-      "location": "広島県",
-      "title": "広島市事業ごみ指定袋作成・在庫管理・受注配送業務（単価契約） 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/73ebb9b1d96b368a.html",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "都立学校健診システム要件定義支援委託",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/35a4b887b07f0434.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "埼玉県",
-      "location": "埼玉県",
-      "title": "犯罪捜査支援用パソコン及び同管理サーバ等の賃貸借 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/761e387a436b7ae6.html",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "上野恩賜公園園路広場その他清掃委託",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/364de1750ec63a3c.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "新潟市",
-      "location": "新潟県",
-      "title": "新潟市申告支援システム用ソフトウェア賃貸借 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/82500662cf12735d.html",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(五の３)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3d27b62c07ec35da.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "宮城県",
-      "location": "宮城県",
-      "title": "ア 凍結防止剤(粒状塩化ナトリウム、標準粒径、10トン車以下、宮城県北部土木事務所管内分) （単価契約） 1,100トン イ 凍結防止剤(液状塩化ナトリウム、８トン車以下、宮城県北部土木事務所管内分) （単価契約）...",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/877317a45c38095f.html",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "管内道路附属物(防護柵等)の清掃委託(六の１)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/40f6f948a77c9f5e.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "岐阜県",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和８年度都民に身近なポケットファーム創出支援委託",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4822e3c2f76ce63c.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(五の５)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/49c27d5e9c0a2bac.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(南東建の１)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/49f054876ec156c9.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "管内道路附属物(防護柵等)の清掃委託(二の１)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4a43021f93b5b196.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(南西建の１)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4f792f48cb2d34d7.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "管内道路附属物(防護柵等)の清掃委託(四の１)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/57fd0167f9df7f24.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和８年度制御システムセキュリティ人材育成事業委託",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/5ba2947d957f9594.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(五の４)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/600c59391d2b00c1.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "管内道路附属物(防護柵等)の清掃委託(五の１)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/60977e88948ba0c6.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "宮崎県",
+      "location": "宮崎県",
+      "title": "宮崎県県立学校教職員用端末（校務・教育活動用）賃貸借調達業務（以下「本業務」という。）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/626dd21f28e3c9de.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(一の３)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/6d504e74513f5975.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(南東建の２)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/707cd627d3b1fd4c.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(三の３)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/70ee1918294061d9.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "青森県",
+      "location": "青森県",
+      "title": "男性警察官用夏制帽外総数三千九百十二点",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7136edd702344d10.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "更衣箱外２点の買入れ(東京都立多摩工科高等学校外２校)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/73149f139c76951e.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "地方独立行政法人岐阜県立多治見病院",
       "location": "岐阜県",
-      "title": "凍結防止剤(塩化ナトリウム) 計1,356,000kg ア 岐阜県郡上土木事務所において調達するもの 1,106,000kg イ 郡上市において調達するもの 250,000kg ",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9f2190af1739d069.html",
+      "title": "岐阜県立多治見病院ガス需給契約 予定数量 2,207,000m3",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/745c8612dc2c2db2.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "宮城県",
-      "location": "宮城県",
-      "title": "液晶ペンタブレットほか 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a9c32ec8e2240345.html",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和９年度サイバーセキュリティ技術支援委託",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/77ae3467dc21b051.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "宮城県",
-      "location": "宮城県",
-      "title": "ア 凍結防止剤（粒状塩化ナトリウム、標準粒径、運搬車両 10トン車以下、宮城県仙台土木事務所管内分）（単価契約） 1,130トン イ 凍結防止剤（粒状塩化ナトリウム、平均粒径３ミリメートル、運搬車両 10トン車以...",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b5e73c3a28b07f6a.html",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "横断歩道橋清掃委託(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/82dd1c06ec9bb49f.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "京都府",
-      "location": "京都府",
-      "title": "ア　京都府総合庁舎等で使用する電力調達　一式 イ　京都府立学校等で使用する電力調達　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c1ef66f5b6ca80f1.html",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(二の３)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8731c49fe23df118.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "公立大学法人札幌市立大学",
-      "location": "北海道",
-      "title": "令和9年度芸術の森コンピュータ室2及び3システム 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c208fe0e33bc982f.html",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(五の１)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/89052a455dda0c6b.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月25日",
-      "agency": "奈良県",
-      "location": "奈良県",
-      "title": "高校教育課 ノートパソコン一式の購入",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e2e9de0289a3209b.html",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(六の２)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/890cf6fc2b41df85.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "広島県",
+      "location": "広島県",
+      "title": "凍結防止剤（塩化ナトリウム及び塩化カルシウム）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/893bfb06fc4d7d54.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(一の４)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8b306ae486443888.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(北北建の１)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/911a1e3b8ce3b883.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "上野恩賜公園施設等点検作業委託",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9afce9cc94497432.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "メタノールの買入れ(その８)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9c5ff399457c5ff0.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "トナーカートリッジ外５種の買入れ単価契約",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9d2459237d29b34a.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "上野恩賜公園便所等清掃委託",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a080899a95afafed.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(二の４)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a2f588037f673d15.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(北南建の２)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a3348660867ea022.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "ドローン(８)の借入れ",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a57f35013d620bc9.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(四の１)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a5de646f4c000022.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月24日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "検査実施システムの借入れ（長期継続契約）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a6440ce18c0b14cb.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(三の４)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/acafc8f6c0e86cd5.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "広島県",
+      "location": "広島県",
+      "title": "・ 凍結防止剤（塩化ナトリウム（機械散布））１ｔフレコン（単価契約） 予定数量 610袋 ・ 凍結防止剤（塩化ナトリウム（機械散布））500ｋｇフレコン（単価契約） 予定数量 60袋 ・ 凍結防止剤（塩化ナトリウム...",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/afd2357b11127c50.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(北北建の２)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b0cbf42b0c7ee8b5.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "大阪市",
+      "location": "大阪府",
+      "title": "長居小学校仮設校舎 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b5375964d088ca2f.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "植樹帯等清掃委託(９新宿)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b9a277c242b9530f.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(一の２)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bc8f5d9b73492005.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(二の５)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c1a5b216dd20635d.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "令和８年度ヘリコプターを活用した都有林整備委託",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c6a457a3b2572d2a.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "東京都給料等支給明細等配信業務委託",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c77217473f448cd1.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(北南建の３)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c974f0ea6c6510ee.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "更衣箱外１点の買入れ(東京都立光丘高等学校外１校)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/cee55ebd3f38952a.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "広島県",
+      "location": "広島県",
+      "title": "・ 凍結防止剤（塩化ナトリウム） １tフレコン 440袋 ・ 凍結防止剤（塩化ナトリウム） 500kgフレコン 528袋 ・ 凍結防止剤（塩化ナトリウム） 25kg袋 320袋 ・ 凍結防止剤（塩化カルシウム） １tフレコン 10袋 ...",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d060155030677025.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(二の１)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d6a04617d470894c.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(二の２)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/df1988f6989f72f7.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "植樹帯等清掃委託(９千代田)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e08493154c8bb350.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "植樹帯等清掃委託(９杉並)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e0a507118edbb208.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "インクカートリッジ外14種の買入れ",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e0bdefefe018cd69.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(三の１)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e34d8910b04863e2.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(西建の１)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e75f456a92cabb82.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "管内道路附属物(防護柵等)の清掃委託(三の１)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f08049b4e083d5e1.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "大阪市",
+      "location": "大阪府",
+      "title": "大阪市役所本庁舎清掃業務委託 長期継続 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f0d4ff5ed62d07be.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(五の２)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f272d720496f4de8.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "訓練用機器の借入れ",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f55e448b8e8259d6.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月28日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "路面清掃委託(六の３)(単価契約)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/fc0d2221554024bc.html",
       "paKind": ""
     }
   ]
