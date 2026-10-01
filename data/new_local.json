@@ -1,263 +1,155 @@
 {
-  "collected_at": "2026-09-30T12:29:08Z",
+  "collected_at": "2026-10-01T13:05:47Z",
   "window": {
-    "from": "2026/08/31",
-    "to": "2026/09/30"
+    "from": "2026/09/01",
+    "to": "2026/10/01"
   },
-  "server_total": 1525,
-  "collected": 1525,
+  "server_total": 1562,
+  "collected": 1562,
   "count_match": true,
   "by_feed": {
-    "local": 641,
-    "national": 884
+    "local": 627,
+    "national": 935
   },
   "new_by_feed": {
-    "local": 27,
-    "national": 34
+    "local": 15,
+    "national": 78
   },
-  "new_count": 27,
+  "new_count": 15,
   "new_items": [
     {
       "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "京都府",
-      "location": "京都府",
-      "title": "ア　凍結防止剤（塩化ナトリウム）　１トン入250袋、500キログラム入1,460袋、25キログラム入 800袋 イ　凍結防止剤（塩化ナトリウム）　１トン入1,100袋、25キログラム入 2,600袋 ウ　凍結防止剤（塩化ナトリウ...",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/00fd9e1f75b7ae30.html",
+      "date": "2026年09月30日",
+      "agency": "さいたま市",
+      "location": "埼玉県",
+      "title": "さいたま市モバイルワーク端末等賃貸借",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0c8ea25340548b88.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "横浜市",
+      "date": "2026年09月30日",
+      "agency": "名古屋市",
+      "location": "愛知県",
+      "title": "マナカ中継システムサーバ及び通信機器等の賃貸借",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/11eef0f35bbc9d82.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月30日",
+      "agency": "名古屋市",
+      "location": "愛知県",
+      "title": "粉末活性炭（富田工場始め 3工場） 37,200kg",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/25fd3765fde6eba6.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月30日",
+      "agency": "名古屋市",
+      "location": "愛知県",
+      "title": "レールの製造請負（その2）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/443634e4962638a6.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月30日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "無線機(携帯無線機・400MHz帯用)外１点の買入れ",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4e36c66eb7b909c7.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月30日",
+      "agency": "名古屋市",
+      "location": "愛知県",
+      "title": "苛性ソーダ（猪子石工場始め 2工場） 110,700kg",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/72757c2770250e5a.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月30日",
+      "agency": "名古屋市",
+      "location": "愛知県",
+      "title": "コンピューター（西陵高等学校ワープロ実習室用） 1組の賃貸借",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/95239a87cd0275cd.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月30日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "保安帽(消防団員用)の買入れ",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/96efdbe62b19a268.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月30日",
+      "agency": "名古屋市",
+      "location": "愛知県",
+      "title": "地下鉄運転シミュレータの装置更新業務委託",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/aa11af8a0e652022.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年09月30日",
+      "agency": "地方独立行政法人神奈川県立病院機構",
       "location": "神奈川県",
-      "title": "横浜国際プール再整備事業",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/048478896ab51bd6.html",
+      "title": "病院情報インフラネットワークシステムの部分更新に係る賃貸借",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ba512a7bc7a3d9e5.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "横浜市",
-      "location": "神奈川県",
-      "title": "神奈川処理区エキサイトよこはま龍宮橋雨水幹線楠支線下水道整備工事（契約番号：2630010155）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/182cde09b2082851.html",
+      "date": "2026年09月30日",
+      "agency": "名古屋市",
+      "location": "愛知県",
+      "title": "コンピューター（工芸高等学校電子機械科教育用ＣＡＤシステム） 1組の賃貸借",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bf2a7eb8d5086c21.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "横浜市",
-      "location": "神奈川県",
-      "title": "脱塩剤 約361,000キログラムの購入",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1ef97fa4e3374865.html",
+      "date": "2026年09月30日",
+      "agency": "名古屋市",
+      "location": "愛知県",
+      "title": "軽油（12月分）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bfc2a8c7f0931eb8.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "長崎県",
-      "location": "長崎県",
-      "title": "長崎県県南振興局複写サービス等提供業務 ア　複写サービスの提供（複合機の賃貸借、保守点検及び消耗品供給業務） (ア)　デジタルフルカラー複合機　モノクロ毎分70枚機以上、カラー毎分70枚機以上　10台 月予定...",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/33b8739c035fa0ad.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "沖縄県",
-      "location": "沖縄県",
-      "title": "企業局ネットワークシステム用ネットワーク機器等(以下「ネットワーク機器等」という。)賃貸借(設置及び設定業務を含む。以下同じ。) 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/34a4e4fae644a977.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "京都市",
-      "location": "京都府",
-      "title": "ア 軽油（その１） 予定数量 ２９０キロリットル イ 軽油（その２） 予定数量 ４２０キロリットル ウ 軽油（その３） 予定数量 ４１０キロリットル エ 軽油（その４） 予定数量 １８０キロリットル",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/381d043352fab98d.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "北海道",
-      "location": "北海道",
-      "title": "大型運転免許用技能試験車両の賃貸借（１月当たりの単価）　３台分",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4f8880232c1f7c1d.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月28日",
+      "date": "2026年09月30日",
       "agency": "札幌市",
       "location": "北海道",
-      "title": "札幌市中央区複合庁舎で使用する電力",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/50b5c0311833ded0.html",
+      "title": "無線式水道メーター（ID入力済）REK13その４ 3,000組",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c0b5438331af1deb.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "横浜市",
-      "location": "神奈川県",
-      "title": "市営野庭住宅（Ｊ街区）建替事業",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/5d293a9e2e5aca01.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "神戸市",
-      "location": "兵庫県",
-      "title": "「中型ノンステップバスその２」",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/69bbe9c5701fc87d.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "横浜市",
-      "location": "神奈川県",
-      "title": "高反応性消石灰 約664,000キログラムの購入",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/824eda4061806cbe.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "埼玉県",
+      "date": "2026年09月30日",
+      "agency": "さいたま市",
       "location": "埼玉県",
-      "title": "デジタルＸ線撮影装置 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8efd13257a61493e.html",
+      "title": "医療画像情報支援システムの購入",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/cf17e405a5dece4b.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "横浜市",
-      "location": "神奈川県",
-      "title": "ア 避難所用テント型間仕切り（１人用） 22,500張の購入 イ 避難所用テント型間仕切り（２人用） 11,300張の購入",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/92ed6c749310bd3e.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "宮城県",
-      "location": "宮城県",
-      "title": "宮城県産業技術総合センターで使用する電気 15か月約 3,039,183kWh",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9805770fd9e41e90.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "北海道",
-      "location": "北海道",
-      "title": "A重油（中標津地区）（１リットル当たりの単価）　152,000リットル",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9ff096b84ca5b6ba.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "新潟県",
-      "location": "新潟県",
-      "title": "学習者用端末等 1,745式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a4712f7ddbb0e97f.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "神戸市",
-      "location": "兵庫県",
-      "title": "令和８年度奥平野浄水場汚泥搬出作業",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b25795fdff1a1aba.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "神戸市",
-      "location": "兵庫県",
-      "title": "令和９年度「広報紙KOBE」印刷等業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bdc9f189988e44e5.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "岩手県",
-      "location": "岩手県",
-      "title": "注射薬自動払出システム １式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c4ac38068a831c9e.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "横浜市",
-      "location": "神奈川県",
-      "title": "コピー用紙Ａ４ 約12,000箱の購入",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d0e648bb2fe5073a.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "横浜市",
-      "location": "神奈川県",
-      "title": "活性炭・重金属固定剤混合高反応性消石灰 約200,000キログラムの購入",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d1698457a151dbc6.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "愛知県",
+      "date": "2026年09月30日",
+      "agency": "名古屋市",
       "location": "愛知県",
-      "title": "ア　あいち産業科学技術総合センターで使用する電気 予定使用電力量　7,351,796kWh イ　旧瀬戸窯業試験場で使用する電気 予定使用電力量　15,744kWh",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e42e996bc262dc92.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "① 柏井浄水場（東）発生土処理業務委託 予定数量 ６，１００トン ② 柏井浄水場（西）発生土処理業務委託 予定数量 １２，２００トン ③ 福増浄水場発生土処理業務委託 予定数量 ４，５００トン",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f96b4b2074e82803.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "神戸市",
-      "location": "兵庫県",
-      "title": "港島クリーンセンター残滓運搬業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/fbd5207cac127307.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "横浜市",
-      "location": "神奈川県",
-      "title": "横浜市ふるさと納税寄附管理等業務委託 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/fe29e1d1f056a476.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月29日",
-      "agency": "横浜市",
-      "location": "神奈川県",
-      "title": "脱塩剤 約330,000キログラムの購入",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ffb1d4cc5075c440.html",
+      "title": "消石灰（五条川工場） 325,500kg",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ff16822154f6e9ae.html",
       "paKind": ""
     }
   ]
