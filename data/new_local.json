@@ -1,155 +1,74 @@
 {
-  "collected_at": "2026-10-01T13:05:47Z",
+  "collected_at": "2026-10-02T12:26:28Z",
   "window": {
-    "from": "2026/09/01",
-    "to": "2026/10/01"
+    "from": "2026/09/02",
+    "to": "2026/10/02"
   },
-  "server_total": 1562,
-  "collected": 1562,
+  "server_total": 1504,
+  "collected": 1504,
   "count_match": true,
   "by_feed": {
-    "local": 627,
-    "national": 935
+    "local": 576,
+    "national": 928
   },
   "new_by_feed": {
-    "local": 15,
-    "national": 78
+    "local": 6,
+    "national": 54
   },
-  "new_count": 15,
+  "new_count": 6,
   "new_items": [
     {
       "feed": "local",
-      "date": "2026年09月30日",
-      "agency": "さいたま市",
-      "location": "埼玉県",
-      "title": "さいたま市モバイルワーク端末等賃貸借",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0c8ea25340548b88.html",
+      "date": "2026年10月01日",
+      "agency": "広島市",
+      "location": "広島県",
+      "title": "中央公園ファミリープールエリア（仮称）再整備・管理運営事業",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4496cda9d294c169.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月30日",
-      "agency": "名古屋市",
-      "location": "愛知県",
-      "title": "マナカ中継システムサーバ及び通信機器等の賃貸借",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/11eef0f35bbc9d82.html",
+      "date": "2026年10月01日",
+      "agency": "熊本市",
+      "location": "熊本県",
+      "title": "熊本市公文書等デジタル化推進事業業務委託（第２次実施分）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4c9ec9b28c7a77e9.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月30日",
-      "agency": "名古屋市",
-      "location": "愛知県",
-      "title": "粉末活性炭（富田工場始め 3工場） 37,200kg",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/25fd3765fde6eba6.html",
+      "date": "2026年10月01日",
+      "agency": "広島市",
+      "location": "広島県",
+      "title": "パーソナルコンピュータ（システム基盤課） ５９０台",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a4e9e9e32bac7bec.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月30日",
-      "agency": "名古屋市",
-      "location": "愛知県",
-      "title": "レールの製造請負（その2）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/443634e4962638a6.html",
+      "date": "2026年10月01日",
+      "agency": "地方独立行政法人京都市産業技術研究所",
+      "location": "京都府",
+      "title": "ガスクロマトグラフ飛行時間型質量分析装置",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d50e39f210819ce8.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月30日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "無線機(携帯無線機・400MHz帯用)外１点の買入れ",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4e36c66eb7b909c7.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月30日",
-      "agency": "名古屋市",
-      "location": "愛知県",
-      "title": "苛性ソーダ（猪子石工場始め 2工場） 110,700kg",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/72757c2770250e5a.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月30日",
-      "agency": "名古屋市",
-      "location": "愛知県",
-      "title": "コンピューター（西陵高等学校ワープロ実習室用） 1組の賃貸借",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/95239a87cd0275cd.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月30日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "保安帽(消防団員用)の買入れ",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/96efdbe62b19a268.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月30日",
-      "agency": "名古屋市",
-      "location": "愛知県",
-      "title": "地下鉄運転シミュレータの装置更新業務委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/aa11af8a0e652022.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月30日",
-      "agency": "地方独立行政法人神奈川県立病院機構",
-      "location": "神奈川県",
-      "title": "病院情報インフラネットワークシステムの部分更新に係る賃貸借",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ba512a7bc7a3d9e5.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月30日",
-      "agency": "名古屋市",
-      "location": "愛知県",
-      "title": "コンピューター（工芸高等学校電子機械科教育用ＣＡＤシステム） 1組の賃貸借",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bf2a7eb8d5086c21.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月30日",
-      "agency": "名古屋市",
-      "location": "愛知県",
-      "title": "軽油（12月分）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/bfc2a8c7f0931eb8.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月30日",
+      "date": "2026年10月01日",
       "agency": "札幌市",
       "location": "北海道",
-      "title": "無線式水道メーター（ID入力済）REK13その４ 3,000組",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c0b5438331af1deb.html",
+      "title": "校務用モノクロプリンタ 934台",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e149edaa5a477fcf.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年09月30日",
-      "agency": "さいたま市",
-      "location": "埼玉県",
-      "title": "医療画像情報支援システムの購入",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/cf17e405a5dece4b.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年09月30日",
-      "agency": "名古屋市",
-      "location": "愛知県",
-      "title": "消石灰（五条川工場） 325,500kg",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ff16822154f6e9ae.html",
+      "date": "2026年10月01日",
+      "agency": "浜松市",
+      "location": "静岡県",
+      "title": "支援車（Ⅱ型）１台",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ea67254adaedcd29.html",
       "paKind": ""
     }
   ]
