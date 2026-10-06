@@ -1,380 +1,623 @@
 {
-  "collected_at": "2026-10-05T14:28:41Z",
+  "collected_at": "2026-10-06T13:15:14Z",
   "window": {
-    "from": "2026/09/05",
-    "to": "2026/10/05"
+    "from": "2026/09/06",
+    "to": "2026/10/06"
   },
-  "server_total": 1423,
-  "collected": 1423,
+  "server_total": 1518,
+  "collected": 1518,
   "count_match": true,
   "by_feed": {
-    "local": 543,
-    "national": 880
+    "local": 578,
+    "national": 940
   },
   "new_by_feed": {
-    "local": 34,
-    "national": 40
+    "local": 35,
+    "national": 67
   },
-  "new_count": 40,
+  "new_count": 67,
   "new_items": [
     {
       "feed": "national",
-      "date": "2026年10月02日",
+      "date": "2026年10月05日",
+      "agency": "独立行政法人情報処理推進機構",
+      "location": null,
+      "title": "次期人事・給与・勤怠管理システムの導入一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404712/20261005a0902001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月05日",
       "agency": "独立行政法人地域医療機能推進機構",
       "location": null,
-      "title": "診療材料単価購入契約",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404587/20261002a0903001.html",
+      "title": "地域医療機能推進機構北海道病院における診療材料単価購入契約 ① 地域医療機能推進機構北海道病院が使用する診療材料一式 ② 品目及び購入予定数量は、入札説明書による。",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404711/20261005a0903002.html",
       "paKind": "入札公告 （物品・サービス一般）"
     },
     {
       "feed": "national",
       "date": "2026年10月05日",
+      "agency": "独立行政法人地域医療機能推進機構",
+      "location": null,
+      "title": "有償病室調度備品賃貸借",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404710/20261005a0903003.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月05日",
+      "agency": "独立行政法人地域医療機能推進機構",
+      "location": null,
+      "title": "器具除染用洗浄器一式の調達",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404709/20261005a0903004.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国家公安委員会（警察庁）",
+      "location": null,
+      "title": "ストーカー被害者の保護措置の強化に向けた取組に関する調査委託業務　１式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404598/2026100600010001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
       "agency": "財務省",
       "location": null,
-      "title": "確定申告期における備品等の借入れ及び会場設営業務　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404585/2026100500010000.html",
+      "title": "令和８年分確定申告期におけるテレビスポット放送の実施　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404601/2026100600020000.html",
       "paKind": "入札公告 （物品・サービス一般）"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "財務省",
-      "location": null,
-      "title": "会議用テーブルほかの借用（区分１・２）　１式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404336/2026100500020000.html",
-      "paKind": "入札公告 （物品・サービス一般）"
-    },
-    {
-      "feed": "national",
-      "date": "2026年10月05日",
+      "date": "2026年10月06日",
       "agency": "国土交通省",
       "location": null,
-      "title": "令和８年度自動車検査・整備情報システムによる監査のＤＸ化検証業務　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404334/2026100500030001.html",
+      "title": "東京管区気象台管内で使用する電気（高圧）（単価契約）（電子調達システム対象案件）",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404599/2026100600030001.html",
       "paKind": "入札公告 （物品・サービス一般）"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
+      "date": "2026年10月06日",
+      "agency": "国土交通省",
+      "location": null,
+      "title": "測量船昭洋定期修理",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404705/2026100600040001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国土交通省",
+      "location": null,
+      "title": "ガスケット２個ほか890点買入",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404704/2026100600050001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
       "agency": "防衛省",
       "location": null,
-      "title": "始動用鉛蓄電池（80Ｄ26Ｒ）　1，100ＥＡ　他9件",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404335/2026100500040001.html",
+      "title": "①営内班用ソフトクローズシューズボックス　42個、②営内班用ソフトクローズロッカー　42個",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404703/2026100600060000.html",
       "paKind": "入札公告 （物品・サービス一般）"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "防衛省",
+      "date": "2026年10月06日",
+      "agency": "独立行政法人国際交流基金",
       "location": null,
-      "title": "①自動洗濯機，２号　５ＥＡ、②列線工具セット　１ＳＥ、③フォークリフト２ｔ（ディーゼル式・サイドシフト付）　１ＥＡ、④フォークリフト３ｔ（ディーゼル式・サイドシフト付）　１ＥＡ、⑤フォークリフト2．5ｔ（...",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404584/2026100500050001.html",
+      "title": "日本語教材関連ウェブサイト　一部改修及び運用保守業務",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404604/2026100600070000.html",
       "paKind": "入札公告 （物品・サービス一般）"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "国立研究開発法人理化学研究所",
+      "date": "2026年10月06日",
+      "agency": "独立行政法人国立印刷局",
       "location": null,
-      "title": "理化学研究所仙台地区で使用する電気　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404337/2026100500060001.html",
+      "title": "製造管理システム機器等購入及び保守　一式（電子入札対象案件）",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404683/2026100600080000.html",
       "paKind": "入札公告 （物品・サービス一般）"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "国立研究開発法人理化学研究所",
+      "date": "2026年10月06日",
+      "agency": "独立行政法人日本芸術文化振興会",
       "location": null,
-      "title": "ヒューマノイドロボット　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404338/2026100500070001.html",
+      "title": "国立劇場の閉場に伴う事務所移転業務　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404602/2026100600090000.html",
       "paKind": "入札公告 （物品・サービス一般）"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
+      "date": "2026年10月06日",
       "agency": "独立行政法人国立高等専門学校機構",
       "location": null,
-      "title": "トリプル四重極型液体クロマトグラフ質量分析計一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404339/2026100500080001.html",
+      "title": "有明工業高等専門学校で使用する電気（高圧）　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404605/2026100600100001.html",
       "paKind": "入札公告 （物品・サービス一般）"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "独立行政法人福祉医療機構",
+      "date": "2026年10月06日",
+      "agency": "国立研究開発法人国立精神・神経医療研究センター",
       "location": null,
-      "title": "福祉保健医療情報ネットワークシステム等のクラウド環境更新及び運用保守業務　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404340/2026100500090000.html",
+      "title": "①データ計測用脳波計及び脳波計カメラ音声相互通話システム　一式、②生細胞解析システム　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404608/2026100600110000.html",
       "paKind": "入札公告 （物品・サービス一般）"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "独立行政法人高齢・障害・求職者雇用支援機構",
-      "location": null,
-      "title": "事務用機器（デジタルフルカラー複合機14台）の購入及び保守等業務（職業大）　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404341/2026100500100000.html",
-      "paKind": "入札公告 （物品・サービス一般）"
-    },
-    {
-      "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "独立行政法人国立病院機構",
-      "location": null,
-      "title": "病院情報システム一式及び保守業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404583/2026100500110001.html",
-      "paKind": "入札公告 （物品・サービス一般）"
-    },
-    {
-      "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "独立行政法人国立病院機構",
-      "location": null,
-      "title": "院内清掃業務委託一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404342/2026100500120001.html",
-      "paKind": "入札公告 （物品・サービス一般）"
-    },
-    {
-      "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "独立行政法人国立病院機構",
-      "location": null,
-      "title": "注射薬自動払出システム　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404343/2026100500130000.html",
-      "paKind": "入札公告 （物品・サービス一般）"
-    },
-    {
-      "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "独立行政法人国立病院機構",
-      "location": null,
-      "title": "Ｘ線透視撮影装置　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404344/2026100500140000.html",
-      "paKind": "入札公告 （物品・サービス一般）"
-    },
-    {
-      "feed": "national",
-      "date": "2026年10月05日",
+      "date": "2026年10月06日",
       "agency": "独立行政法人労働者健康安全機構",
       "location": null,
-      "title": "白内障・硝子体手術装置一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404346/2026100500150001.html",
+      "title": "①熊本労災病院で使用する電気　約5，406，215kWh、②建物清掃業務一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404607/2026100600120001.html",
       "paKind": "入札公告 （物品・サービス一般）"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
+      "date": "2026年10月06日",
+      "agency": "国立研究開発法人農業・食品産業技術総合研究機構",
+      "location": null,
+      "title": "①外国雑誌（Scienceほか）　１式、②外国雑誌（ワイリー電子ジャーナル転換契約）の利用　１式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404688/2026100600130000.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
       "agency": "国立研究開発法人産業技術総合研究所",
       "location": null,
-      "title": "データ提供用計算機サーバ　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404347/2026100500160001.html",
+      "title": "大型計算機のメモリ増設　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404600/2026100600140001.html",
       "paKind": "入札公告 （物品・サービス一般）"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
+      "date": "2026年10月06日",
       "agency": "国立研究開発法人産業技術総合研究所",
       "location": null,
-      "title": "データセット整備用計算機サーバ　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404348/2026100500160002.html",
+      "title": "多角度可変自動測定分光光度計　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404603/2026100600150001.html",
       "paKind": "入札公告 （物品・サービス一般）"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "独立行政法人海技教育機構",
+      "date": "2026年10月06日",
+      "agency": "独立行政法人エネルギー・金属鉱物資源機構",
       "location": null,
-      "title": "①Ａ重油200㎘　②Ａ重油340㎘　合計（②―⑴Ａ重油190㎘　②―⑵Ａ重油150㎘）　③Ａ重油260㎘　④Ａ重油350㎘",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404582/2026100500170001.html",
+      "title": "令和９年度解釈用ワークステーション４セットの賃貸借による導入（電子入札対象案件）",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404609/2026100600160000.html",
       "paKind": "入札公告 （物品・サービス一般）"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
+      "date": "2026年10月06日",
       "agency": "国立大学法人",
       "location": null,
-      "title": "半導体デバイス・アナライザ　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404345/2026100500180000.html",
+      "title": "クライオ透過電子顕微鏡装置　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404610/2026100600170001.html",
       "paKind": "入札公告 （物品・サービス一般）"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
+      "date": "2026年10月06日",
       "agency": "国立大学法人",
       "location": null,
-      "title": "琉球大学医学部及び病院清掃業務　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404349/2026100500190001.html",
+      "title": "汎用画像診断装置ワークステーション　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404611/2026100600180001.html",
       "paKind": "入札公告 （物品・サービス一般）"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "ソフトウェア使用許諾　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404612/2026100600190001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "一橋大学国立地区で使用する電気供給契約　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404613/2026100600200001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "一橋大学小平地区で使用する電気供給契約　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404614/2026100600210001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "細胞培養分取システム　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404615/2026100600220001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "微小粒子対応細胞解析装置　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404616/2026100600220002.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "財務会計システムソフトウェア及び基盤　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404702/2026100600230001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "レーザーフラッシュアナライザ　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404617/2026100600240001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "超解像共焦点レーザー顕微鏡システム　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404618/2026100600250001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "腹腔鏡下手術トレーニングシミュレータ　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404619/2026100600250002.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "ＳＰＥＣＴ―ＣＴ　Ｘ線管球交換　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404620/2026100600260001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "オフィスソフトウェア及びクラウド利用ライセンス　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404621/2026100600270001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "メインコアスイッチ・無線ＬＡＮコントローラ更新　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404622/2026100600280001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "滋賀医科大学で使用するガス　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404623/2026100600290001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "大阪大学吹田アゴラ什器　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404624/2026100600300001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "眼科用手術顕微鏡システム　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404625/2026100600310001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "集中治療・手術モニタリングシステム　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404626/2026100600320001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "遠隔操作型手術システム　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404627/2026100600330001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "空間トランスクリプトーム解析システム　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404628/2026100600340001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "脳神経外科手術支援システム　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404629/2026100600350001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "小型移動式クレーン一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404630/2026100600360001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "①練習船長崎丸 第二種中間検査工事（ただし、４号主発電機関は定期検査、２号主発電機関は第三種中間検査）及び一般修繕工事　一式、②練習船鶴洋丸 第二・三種中間検査工事（ただし、左舷主機関・発電機について...",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404701/2026100600370001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "長崎大学で使用する電気（特別高圧）　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404631/2026100600370002.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "長崎大学で使用する電気（高圧）　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404632/2026100600370003.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "全身麻酔器　五式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404633/2026100600370004.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "光干渉断層計　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404634/2026100600370005.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "感染性産業廃棄物収集運搬・処分業務　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404635/2026100600370006.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "Ａ　経カテーテル人工生体弁セット（バルーン拡張・特殊型）　20mm　３セット、Ｂ　経カテーテル人工生体弁セット（バルーン拡張・特殊型）　23mm　10セット、Ｃ　経カテーテル人工生体弁セット（バルーン拡張・...",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404700/2026100600380001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "手術用顕微鏡システム　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404637/2026100600390001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
+      "location": null,
+      "title": "過酸化水素ガスプラズマ滅菌システム　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404638/2026100600390002.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "大学共同利用機関法人",
+      "location": null,
+      "title": "高性能・大電力77／49．69ＧＨｚジャイロトロン　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404639/2026100600400001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "大学共同利用機関法人",
+      "location": null,
+      "title": "超高磁場大電流超伝導導体試験装置スプリット・マグネット用内層高温超伝導コイルの巻線導体試作　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404640/2026100600410001.html",
+      "paKind": "入札公告 （物品・サービス一般）"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
       "agency": "日本郵政公社を承継した機関",
       "location": null,
-      "title": "新配達総合情報システム用カラープリンタインクカートリッジ（エプソンＰＸ―Ｓ887）ブラック2，800個（予定）、ほか３点",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404350/2026100500200000.html",
+      "title": "主婦層向け営業ツール（パンフレット）の印刷　90万部（予定）",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404641/2026100600420000.html",
       "paKind": "入札公告 （物品・サービス一般）"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "日本郵政公社を承継した機関",
-      "location": null,
-      "title": "電子式複写機376台（予定）の更改及び保守（2027年度更改）",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404351/2026100500210001.html",
-      "paKind": "入札公告 （物品・サービス一般）"
-    },
-    {
-      "feed": "national",
-      "date": "2026年10月05日",
+      "date": "2026年10月06日",
       "agency": "日本年金機構",
       "location": null,
-      "title": "記録整備等業務　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404352/2026100500220001.html",
+      "title": "RPAツール保守業務（令和９年１月～令和９年12月）　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404642/2026100600430001.html",
       "paKind": "入札公告 （物品・サービス一般）"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "日本年金機構",
+      "date": "2026年10月06日",
+      "agency": "独立行政法人日本学術振興会",
       "location": null,
-      "title": "日本年金機構で使用する高圧電力（北海道電力管内）外８件",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404581/2026100500230001.html",
-      "paKind": "入札公告 （物品・サービス一般）"
+      "title": "次期科研費ＤＢシステムの設計・開発及び運用・保守業務一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404708/2026100600450000.html",
+      "paKind": "公募型プロポーザル情報"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "日本中央競馬会",
+      "date": "2026年10月06日",
+      "agency": "大学共同利用機関法人",
       "location": null,
-      "title": "社会貢献に関するホームページ運用・企画制作業務　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404580/2026100500240001.html",
-      "paKind": "入札公告 （物品・サービス一般）"
-    },
-    {
-      "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "国土交通省",
-      "location": null,
-      "title": "令和８―10年度　津島道路芳原川４号橋上部工事（電子入札及び電子契約対象案件）",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404586/2026100500250000.html",
-      "paKind": "入札公告（建設工事）"
-    },
-    {
-      "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "国立大学法人",
-      "location": null,
-      "title": "政策研究大学院大学認証基盤システム構築・運用保守　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404353/2026100500270001.html",
+      "title": "次期学術情報ネットワーク（ＳＩＮＥＴ）用シンガポール回線　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404643/2026100600460001.html",
       "paKind": "資料提供招請に関する公表"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "法務省",
+      "date": "2026年10月06日",
+      "agency": "大学共同利用機関法人",
       "location": null,
-      "title": "令和８年度次期出入国管理業務個人識別情報システム等に係る運用支援業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404354/2026100500280001.html",
+      "title": "次期学術情報ネットワーク（ＳＩＮＥＴ）用グアム回線　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404644/2026100600470001.html",
+      "paKind": "資料提供招請に関する公表"
+    },
+    {
+      "feed": "national",
+      "date": "2026年10月06日",
+      "agency": "デジタル庁",
+      "location": null,
+      "title": "第二期政府共通プラットフォームにおけるソフトウェア・サービス（令和９年度）の提供　１式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404645/2026100600480001.html",
       "paKind": "意見招請に関する公示"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "外務省",
+      "date": "2026年10月06日",
+      "agency": "デジタル庁",
       "location": null,
-      "title": "令和９年度「外交行のうの外務本省と日本国在外公館との間の発受に関する業務」",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404355/2026100500290001.html",
+      "title": "第二期政府共通プラットフォームにおけるプロジェクト管理等支援業務（令和９年度）の請負　１式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404707/2026100600480002.html",
       "paKind": "意見招請に関する公示"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "国土交通省",
+      "date": "2026年10月06日",
+      "agency": "デジタル庁",
       "location": null,
-      "title": "人事・給与関係業務情報システム運用支援業務　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404358/2026100500300001.html",
+      "title": "第二期政府共通プラットフォームにおける運用管理等提供業務（令和９年度）の請負　１式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404706/2026100600480003.html",
       "paKind": "意見招請に関する公示"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "独立行政法人都市再生機構",
+      "date": "2026年10月06日",
+      "agency": "デジタル庁",
       "location": null,
-      "title": "令和10年度家賃・収納管理システムの設計・開発・アプリケーション保守等業務　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404359/2026100500310000.html",
+      "title": "令和９年度ガバメントクラウド利用政府情報システムのネットワーク接続支援に係る役務等　１式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404636/2026100600490000.html",
       "paKind": "意見招請に関する公示"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "独立行政法人都市再生機構",
+      "date": "2026年10月06日",
+      "agency": "財務省",
       "location": null,
-      "title": "令和10年度住宅管理系システム基盤のクラウドサービス提供及び保守等業務　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404360/2026100500320000.html",
+      "title": "財務局の情報システム運用等に係る技術支援業務　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404647/2026100600500000.html",
       "paKind": "意見招請に関する公示"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "独立行政法人都市再生機構",
+      "date": "2026年10月06日",
+      "agency": "財務省",
       "location": null,
-      "title": "令和10年度共益費・水道管理システムの設計・開発・アプリケーション保守等業務　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404361/2026100500330000.html",
+      "title": "通関事務総合データ通信システムのガバメントソリューションサービス移行に係るコンサルティング業務一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404648/2026100600510000.html",
       "paKind": "意見招請に関する公示"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "独立行政法人都市再生機構",
+      "date": "2026年10月06日",
+      "agency": "独立行政法人国立病院機構",
       "location": null,
-      "title": "令和10年度共通管理システムの設計・開発・アプリケーション保守等業務　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404362/2026100500340000.html",
+      "title": "病院情報システム一式及び７年間の保守業務",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404649/2026100600520001.html",
       "paKind": "意見招請に関する公示"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "独立行政法人都市再生機構",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
       "location": null,
-      "title": "令和10年度団地再生システムの設計・開発・アプリケーション保守等業務　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404363/2026100500350000.html",
+      "title": "サステナブルエレクトロニクス印刷試作装置　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404650/2026100600530001.html",
       "paKind": "意見招請に関する公示"
     },
     {
       "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "独立行政法人都市再生機構",
+      "date": "2026年10月06日",
+      "agency": "国立大学法人",
       "location": null,
-      "title": "令和10年度分譲・宅地管理システムの設計・開発・アプリケーション保守等業務　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404356/2026100500360000.html",
-      "paKind": "意見招請に関する公示"
-    },
-    {
-      "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "独立行政法人都市再生機構",
-      "location": null,
-      "title": "令和10年度保全システムの設計・開発・アプリケーション保守等業務　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404364/2026100500370000.html",
-      "paKind": "意見招請に関する公示"
-    },
-    {
-      "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "独立行政法人都市再生機構",
-      "location": null,
-      "title": "令和10年度募集・賃貸管理システムの設計・開発・アプリケーション保守等業務　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404365/2026100500380000.html",
-      "paKind": "意見招請に関する公示"
-    },
-    {
-      "feed": "national",
-      "date": "2026年10月05日",
-      "agency": "日本放送協会",
-      "location": null,
-      "title": "番組用アンケートサービス（アクセシビリティおよび多言語対応）　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404366/2026100500390001.html",
+      "title": "キャンパス情報ネットワークシステム　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/national/articles/404651/2026100600540001.html",
       "paKind": "意見招請に関する公示"
     }
   ]
