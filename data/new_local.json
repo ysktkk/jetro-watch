@@ -1,200 +1,83 @@
 {
-  "collected_at": "2026-10-07T13:15:11Z",
+  "collected_at": "2026-10-08T13:21:42Z",
   "window": {
-    "from": "2026/09/07",
-    "to": "2026/10/07"
+    "from": "2026/09/08",
+    "to": "2026/10/08"
   },
-  "server_total": 1572,
-  "collected": 1572,
+  "server_total": 1421,
+  "collected": 1421,
   "count_match": true,
   "by_feed": {
-    "local": 598,
-    "national": 974
+    "local": 471,
+    "national": 950
   },
   "new_by_feed": {
-    "local": 20,
-    "national": 39
+    "local": 7,
+    "national": 33
   },
-  "new_count": 20,
+  "new_count": 7,
   "new_items": [
     {
       "feed": "local",
-      "date": "2026年10月06日",
-      "agency": "秋田県",
-      "location": "秋田県",
-      "title": "タブレット型コンピュータ（高校） 1001台",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0575a56fd0704e7f.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月06日",
-      "agency": "横浜市",
-      "location": "神奈川県",
-      "title": "可搬式小型動力ポンプ 28式の購入",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/19d68a30448dd203.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月06日",
-      "agency": "岡山市",
-      "location": "岡山県",
-      "title": "Microsoft 365 / Office 365 Government ライセンス包括使用契約",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/233d1c492473c811.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月06日",
-      "agency": "川崎市",
-      "location": "神奈川県",
-      "title": "上下水道料金等業務システムに係る帳票印刷等業務委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2acbc47186d6c9de.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月06日",
-      "agency": "横浜市",
-      "location": "神奈川県",
-      "title": "平沼町シールドトンネル（下り線）補修工事（契約番号：2653010035）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/379f900647627852.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月06日",
-      "agency": "横浜市",
-      "location": "神奈川県",
-      "title": "ア 校内用放送機 ７セットの購入 イ 校内用放送機 ４２セットの購入",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3baa5d4e41e6f953.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月06日",
-      "agency": "栃木県",
-      "location": "栃木県",
-      "title": "栃木県下水道資源化工場で使用する重油（JIS K2205　１種１号）219kL（購入見込数量）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4ab2ffd9e7af9750.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月06日",
-      "agency": "地方独立行政法人大阪府立病院機構",
-      "location": "大阪府",
-      "title": "生体情報モニタ 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/550929616227910d.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月06日",
-      "agency": "大分県",
-      "location": "大分県",
-      "title": "手術用顕微鏡システム一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/5709863edc13e48d.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月06日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "中原警察署木月交番ほか4交番整備・維持管理・修繕更新事業",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/5bc6e6d2046191d9.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月06日",
-      "agency": "北海道",
-      "location": "北海道",
-      "title": "北海道庁本庁舎構内除排雪業務　一式 ア　除雪ドーザ（９トン（1.5m3）級以上　汎用プラウ）（１時間当たりの単価） 331時間 イ　ダンプトラック（10トン級以上　排雪用差し枠）（１時間当たりの単価） 510時間 ...",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/5dd403d0dd463f0f.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月06日",
-      "agency": "福島県",
-      "location": "福島県",
-      "title": "福島県会津家畜保健衛生所ほか12施設で使用する電気 予定数量7,024,624kWh",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/658344db18004c38.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月06日",
-      "agency": "岡山県",
-      "location": "岡山県",
-      "title": "マイクロソフト社製ソフトウェアライセンス １式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/68346e0501b7dd5d.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月06日",
-      "agency": "三重県",
-      "location": "三重県",
-      "title": "車両捜査支援システムのデータ通信回線に係る契約",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/6d26b4426356317e.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月06日",
-      "agency": "兵庫県",
-      "location": "兵庫県",
-      "title": "医薬品購入業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a9765414f29d0929.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月06日",
-      "agency": "愛知県",
+      "date": "2026年10月07日",
+      "agency": "名古屋市",
       "location": "愛知県",
-      "title": "核磁気共鳴吸収装置（核磁気共鳴装置）１組",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ba84e654f1052642.html",
+      "title": "緑政土木局情報化機器 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/09d1a3b0ebade41d.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年10月06日",
-      "agency": "福島県",
-      "location": "福島県",
-      "title": "福島県庁舎で使用する電気 予定数量4,147,500kWh",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c688eb66d90becbe.html",
+      "date": "2026年10月07日",
+      "agency": "岐阜県",
+      "location": "岐阜県",
+      "title": "凍結防止剤(塩化カルシウム) 計386,000kg ア 500kg入り袋 199,000kg イ 2 5kg入り袋 187,000kg ",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/20ef322c6866e2c4.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年10月06日",
-      "agency": "鳥取県",
-      "location": "鳥取県",
-      "title": "鳥取県教育委員会におけるマイクロソフト社教育機関向けライセンス調達業務 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d2381f5ea8ff2aa5.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月06日",
-      "agency": "愛知県",
+      "date": "2026年10月07日",
+      "agency": "名古屋市",
       "location": "愛知県",
-      "title": "エックス線分析装置（電解質材料合成用構造解析装置）一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d8168557b0b56a00.html",
+      "title": "自動券売機の更新（令和８年度発注分）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2a4e69f26a1193c0.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年10月06日",
-      "agency": "福井県",
-      "location": "福井県",
-      "title": "福井県立鯖江高等学校丹南キャンパス美術棟コンピュータ室機器等購入および保守業務　１式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/fe49ad873fce4005.html",
+      "date": "2026年10月07日",
+      "agency": "名古屋市",
+      "location": "愛知県",
+      "title": "堀川雨水幹線下水道築造工事",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/67e362976447bb11.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年10月07日",
+      "agency": "名古屋市",
+      "location": "愛知県",
+      "title": "(a) 水道メータ修理（13ＰＤ） 8,000個 (b) 水道メータ修理（20ＰＤ） 10,000個 (c) 水道メータ修理（40ＰＤ） 400個 (d) 水道メータ修理（50ＰＦ） 80個 (e) 水道メータ修理（75ＰＦ） 40個 (f) 水道メータ（13...",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c877f40735d75ffb.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年10月07日",
+      "agency": "広島市",
+      "location": "広島県",
+      "title": "広島市第６次庁内ＬＡＮ（情報共有・交換機能）構築及び運用管理業務",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d399819e4d226b49.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年10月07日",
+      "agency": "京都市",
+      "location": "京都府",
+      "title": "ア 水道メーター（Ｂ） （接線流羽根車複箱乾式デジタル表示、口径２０ミリメートル） 数量 １８，０００個 イ 水道メーター（Ｂ） （接線流羽根車複箱乾式デジタル表示、口径２５ミリメートル） 数量 １，４００...",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/faf0ef74a70d6ddb.html",
       "paKind": ""
     }
   ]
