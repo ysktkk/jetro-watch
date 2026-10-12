@@ -1,93 +1,20 @@
 {
-  "collected_at": "2026-10-09T13:10:07Z",
+  "collected_at": "2026-10-12T15:14:52Z",
   "window": {
-    "from": "2026/09/09",
-    "to": "2026/10/09"
+    "from": "2026/09/13",
+    "to": "2026/10/13"
   },
-  "server_total": 1419,
-  "collected": 1419,
+  "server_total": 1240,
+  "collected": 1240,
   "count_match": true,
   "by_feed": {
-    "local": 452,
-    "national": 967
+    "local": 397,
+    "national": 843
   },
   "new_by_feed": {
-    "local": 8,
-    "national": 56
+    "local": 0,
+    "national": 0
   },
-  "new_count": 8,
-  "new_items": [
-    {
-      "feed": "local",
-      "date": "2026年10月08日",
-      "agency": "札幌市",
-      "location": "北海道",
-      "title": "学校給食用茶碗（小学校用）ほか５点 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/84a44529cb4edbbe.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月08日",
-      "agency": "札幌市",
-      "location": "北海道",
-      "title": "札幌市家庭用指定ごみ袋（10リットル）令和８年度３回目 6,600,000枚（660,000組）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8b151de41819ce00.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月08日",
-      "agency": "仙台市",
-      "location": "宮城県",
-      "title": "仙台市立病院清掃業務委託 【低入札価格調査対象案件】 1式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9ee15b8cf5a77cb1.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月08日",
-      "agency": "岡山市",
-      "location": "岡山県",
-      "title": "岡山市廃棄物発電電力活用事業",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9f0652f3e526f825.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月08日",
-      "agency": "地方独立行政法人東京都立病院機構",
-      "location": "東京都",
-      "title": "東京都立多摩北部医療センター臨床検査システムの借入れ（長期継続契約）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a31990b80a08e4fb.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月08日",
-      "agency": "福岡市",
-      "location": "福岡県",
-      "title": "ア　免税軽油の購入（12月分） イ　免税軽油の購入（１月分） ウ　Ａ重油（海上大口）の購入（12月分） エ　Ａ重油（海上大口）の購入（１月分）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b7fbaf6e12f34128.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月08日",
-      "agency": "札幌市",
-      "location": "北海道",
-      "title": "ア 札幌市家庭用指定ごみ袋（40リットル）令和８年度４回目 3,750,000枚（750,000組） イ 札幌市家庭用指定ごみ袋（20リットル）令和８年度４回目 9,000,000枚（900,000組） ウ 札幌市家庭用指定ごみ袋（10リット...",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c515da4f07aaf8d7.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月08日",
-      "agency": "熊本市",
-      "location": "熊本県",
-      "title": "令和８年度（２０２６年度）教育用マイクロソフト３６５ライセンス調達",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/fcb37a8e66d3cc4b.html",
-      "paKind": ""
-    }
-  ]
+  "new_count": 0,
+  "new_items": []
 }
