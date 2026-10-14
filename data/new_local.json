@@ -1,263 +1,218 @@
 {
-  "collected_at": "2026-10-13T14:05:43Z",
+  "collected_at": "2026-10-14T11:45:20Z",
   "window": {
-    "from": "2026/09/13",
-    "to": "2026/10/13"
+    "from": "2026/09/14",
+    "to": "2026/10/14"
   },
-  "server_total": 1335,
-  "collected": 1335,
+  "server_total": 1407,
+  "collected": 1407,
   "count_match": true,
   "by_feed": {
-    "local": 424,
-    "national": 911
+    "local": 446,
+    "national": 961
   },
   "new_by_feed": {
-    "local": 27,
-    "national": 68
+    "local": 22,
+    "national": 52
   },
-  "new_count": 27,
+  "new_count": 22,
   "new_items": [
     {
       "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "石川県",
-      "location": "石川県",
-      "title": "仮想デスクトップ環境に係る機器等借上 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0e479760a1255695.html",
+      "date": "2026年10月13日",
+      "agency": "広島市",
+      "location": "広島県",
+      "title": "広島市立舟入高等学校ＣＡＬＬ教室等システム設備の賃貸借",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0516b6963460432b.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "北海道",
-      "location": "北海道",
-      "title": "ア　警察本部札幌運転免許試験場コース及びコース周辺除雪業務委託契約のうち常駐委託　一式 イ　警察本部札幌運転免許試験場コース及びコース周辺除雪業務委託契約のうち作業委託 (ア)　除雪グレーダによる作業...",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1680043e71aacaad.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "警視庁三宅島警察署庁舎(８)改築工事",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/20b718b21a8ab28f.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "滋賀県",
-      "location": "滋賀県",
-      "title": "超微量分析ＧＣ－ＭＳ 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/220eafd6aeb60045.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "山形県",
-      "location": "山形県",
-      "title": "検体検査機器　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/229e269a7325d86b.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "愛知県公立大学法人",
-      "location": "愛知県",
-      "title": "愛知県立芸術大学芸術情報センター図書館電算システム機器賃貸借",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/293834043b149189.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "新潟市",
-      "location": "新潟県",
-      "title": "新潟市清掃手数料・ごみ指定袋管理システム再構築業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3996458160e486cc.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "相模原市",
-      "location": "神奈川県",
-      "title": "４０６０ 情報共有基盤システムソフトウェアライセンス使用権",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/40ca2d474b5709be.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "新潟市",
-      "location": "新潟県",
-      "title": "窓口用ノートパソコン ２７１台",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4809ba243a945bca.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "川崎市",
-      "location": "神奈川県",
-      "title": "ア 大型ごみ中継車（コンテナ脱着装置付）第１回 ２台 イ 大型ごみ中継車（コンテナ脱着装置付）第２回 ２台 ウ 超小型ごみ収集車（３ｍ３） ２台",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/49011be4fc09c273.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "北海道",
-      "location": "北海道",
-      "title": "乗用自動車の賃貸借（産業振興部農村振興課）　一式（１月当たりの単価）　２台分",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4a1d78c60da99901.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "香川県",
-      "location": "香川県",
-      "title": "マイクロソフトライセンス 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/57344aa2d9740768.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "愛知県公立大学法人",
-      "location": "愛知県",
-      "title": "愛知県立大学大学院情報科学研究科 教育・研究用機器（第１次分）賃貸借",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/69334f8885414824.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "蛍光Ｘ線分析システムの賃貸借及び保守　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/754b4147ab865ad1.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "警視庁上野警察署庁舎(８)改築工事",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7d6ab104f72db97c.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "奈良県",
-      "location": "奈良県",
-      "title": "（仮称）医大新駅周辺まちづくり事業",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/81ce083c58ee4395.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "青森県",
-      "location": "青森県",
-      "title": "青森県警察緊急配備指揮支援システム 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/82390eb8f40bce26.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "分子量測定装置ほか2件の賃貸借及び保守　一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/8f91e503598c742b.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "水道料金システム用端末等機器賃貸借及び保守業務委託 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a5e4894c0898a449.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "岐阜県",
-      "location": "岐阜県",
-      "title": "グループウェアシステム等の構築及び運用保守業務に供するマイクロソフト製品ライセンス 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/abcd4be3b54599f5.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "指掌紋情報管理システムサーバ機器等賃貸借 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b39de1525002369d.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "愛知県",
-      "location": "愛知県",
-      "title": "あいち産業科学技術総合センター産業技術センター始め３施設で使用する電気 予定使用電力量　2,120,000kWh",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b3b1fd861d97487e.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "東京都",
-      "location": "東京都",
-      "title": "環状七号線地下広域調節池(妙正寺川取水施設)工事",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/beba786b42663122.html",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年10月09日",
+      "date": "2026年10月13日",
       "agency": "北九州市",
       "location": "福岡県",
-      "title": "軽油 １０万２，０００リットル",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/db0f5ce01082ac6e.html",
+      "title": "軽油（軽油引取税免税・１２月分）２万９，２００リットル",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/09cdfa90584987d1.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "石川県",
-      "location": "石川県",
-      "title": "サーバー統合基盤環境に係る機器等借上",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/de4e94391c537fad.html",
+      "date": "2026年10月13日",
+      "agency": "兵庫県",
+      "location": "兵庫県",
+      "title": "除雪トラック２台",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0ac9f997a49fa134.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年10月09日",
-      "agency": "大阪市",
-      "location": "大阪府",
-      "title": "① 教室用机 ･椅子 ･天板（東部地区） 432台・498脚・43枚 ② 教室用机 ･椅子 ･天板（西部地区） 297台・343脚・144枚 ③ 教室用机 ･椅子 ･天板（南部地区） 391台・336脚・134枚 ④ 教室用机 ･椅子 ･天板（北部地区...",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/eb23ef92f20839bd.html",
+      "date": "2026年10月13日",
+      "agency": "長野県",
+      "location": "長野県",
+      "title": "インターネット回線サービス提供業務　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0efe88e7c1b2d5a0.html",
       "paKind": ""
     },
     {
       "feed": "local",
-      "date": "2026年10月09日",
+      "date": "2026年10月13日",
+      "agency": "新潟県",
+      "location": "新潟県",
+      "title": "令和８年度漁業調査船越路丸中間検査及び修繕に係る工事一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/241791a82e0c66c4.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年10月13日",
+      "agency": "広島市",
+      "location": "広島県",
+      "title": "広島市立広島商業高等学校コンピュータ機器等の賃貸借",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2e467623a37fe9b4.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年10月13日",
+      "agency": "福井県",
+      "location": "福井県",
+      "title": "デジタルＸ線撮影システム　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4b72010f2fc73898.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年10月13日",
+      "agency": "滋賀県",
+      "location": "滋賀県",
+      "title": "水槽付消防ポンプ自動車（II型）１台および附属品一式（ポンプのメンテナンスを含む。）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4bc87df0341316cb.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年10月13日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "画像解析装置賃貸借 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4f6f1447470e04da.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年10月13日",
+      "agency": "千葉県",
+      "location": "千葉県",
+      "title": "千葉県警察業務系端末装置用外付け液晶モニタ賃貸借 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/77e36a9344bb75d4.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年10月13日",
+      "agency": "沖縄県",
+      "location": "沖縄県",
+      "title": "配管に係る機器(厨房機器等)一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7c12df25b022fe24.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年10月13日",
+      "agency": "滋賀県",
+      "location": "滋賀県",
+      "title": "スキャナー機器等（搬入等を含む。） 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/898e8520607f8110.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年10月13日",
+      "agency": "浜松市",
+      "location": "静岡県",
+      "title": "令和８年度 アクトシティ浜松Ａゾーン改修工事（大・中ホール建築工事）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a0fbc3d40a1b0be0.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年10月13日",
+      "agency": "北九州市",
+      "location": "福岡県",
+      "title": "白灯油（１２月分）１２キロリットル",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a91c3a50e5ba3a6f.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年10月13日",
+      "agency": "滋賀県",
+      "location": "滋賀県",
+      "title": "滋賀県統合宛名システム利用サービス提供業務 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b439fba295b95f5d.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年10月13日",
+      "agency": "兵庫県",
+      "location": "兵庫県",
+      "title": "道路管理パトロール車７台",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c7b4b832f63c175f.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年10月13日",
       "agency": "北海道",
       "location": "北海道",
-      "title": "A重油（北海道羽幌高等学校）（１リットル当たりの単価）　39,000リットル",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f221a385a02f6e55.html",
+      "title": "A重油（室蘭・登別地区）（１リットル当たりの単価）　57,000リットル",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d071d68c36366f2d.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年10月13日",
+      "agency": "広島市",
+      "location": "広島県",
+      "title": "広島市立広島工業高等学校実習用コンピュータ機器等の賃貸借",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d52cda8d86bbf261.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年10月13日",
+      "agency": "新潟県",
+      "location": "新潟県",
+      "title": "県立学校モバイルデバイス管理ソフトウェアライセンスの調達及び移行業務委託",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d9b6979fa6b88900.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年10月13日",
+      "agency": "滋賀県",
+      "location": "滋賀県",
+      "title": "講習用運転シミュレータ機器等（搬入等を含む。） 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ea7411da80da3649.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年10月13日",
+      "agency": "山形県",
+      "location": "山形県",
+      "title": "内視鏡システム賃貸借　一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f2714fa30764e646.html",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年10月13日",
+      "agency": "群馬県",
+      "location": "群馬県",
+      "title": "群馬県立吉井高等学校ほか１１校ＬＥＤ照明器具賃貸借 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f47a925ae4ecdc61.html",
       "paKind": ""
     }
   ]
