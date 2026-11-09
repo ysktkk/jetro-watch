@@ -13,12 +13,22 @@ trap 'echo "!!! FAILED at line ${LINENO}: ${BASH_COMMAND}" >&2' ERR
 #  どちらの場合も data/status.json に状態を書く。
 #  上流が落ちている間は data/latest.json 等を一切上書きしないので、
 #  collected_at は最後に成功した時刻のまま残る。
+#
+#  取得経路（status.json の source）
+#   api         … view_interface.php（検索API）。従来どおりの正本
+#   static_json … /XiProcurementSearch/xi_proc_{local,central}_ja.json
+#                 JETROが2026-10の不正アクセス対応で検索APIを止めている間、
+#                 公式の一覧ページ自身がこの静的JSONを読んで描画している。
+#                 APIが使えないときだけフォールバックとして使う。
 # ============================================================
 
 WINDOW_DAYS=30
 UA='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
 BLOCK_LOCAL=33686978
 BLOCK_NATIONAL=33235812
+# フォールバック用の静的JSON（暫定運用中の一覧ページが読んでいるもの）
+STATIC_PATH_LOCAL=/XiProcurementSearch/xi_proc_local_ja.json
+STATIC_PATH_NATIONAL=/XiProcurementSearch/xi_proc_central_ja.json
 
 # テスト時にモックへ差し替えられるようにしておく（本番では既定値のまま）
 BASE_URL="${JETRO_BASE_URL:-https://www.jetro.go.jp}"
@@ -36,6 +46,9 @@ rm -f tmp/*.json tmp/*.txt
 TO_JST=$(TZ=Asia/Tokyo date +%Y/%m/%d)
 FROM_JST=$(TZ=Asia/Tokyo date -d "${WINDOW_DAYS} days ago" +%Y/%m/%d)
 TODAY_JST=$(TZ=Asia/Tokyo date +%Y-%m-%d)
+# 静的JSONは日付が YYYYMMDD 形式なので比較用に用意
+FROM_YMD=$(TZ=Asia/Tokyo date -d "${WINDOW_DAYS} days ago" +%Y%m%d)
+TO_YMD=$(TZ=Asia/Tokyo date +%Y%m%d)
 NOW_UTC=$(date -u +%Y-%m-%dT%H:%M:%SZ)
 enc() { printf '%s' "$1" | sed 's|/|%2F|g'; }
 F=$(enc "$FROM_JST"); T=$(enc "$TO_JST")
@@ -63,8 +76,8 @@ snippet() { # $1=ファイル
     | cut -c1-200
 }
 
-write_status() { # $1=state $2=http_status $3=detail
-  local state="$1" http="${2:-}" detail="${3:-}"
+write_status() { # $1=state $2=http_status $3=detail $4=source(api|static_json) $5=fallback_reason
+  local state="$1" http="${2:-}" detail="${3:-}" source="${4:-api}" fb="${5:-}"
   local fails since succ_at succ_date esc
   if [ "$state" = "ok" ]; then
     fails=0; since=""
@@ -81,6 +94,7 @@ write_status() { # $1=state $2=http_status $3=detail
     --arg http "$http" --arg detail "$detail" \
     --arg ep "${BASE_URL}/view_interface.php" \
     --arg sa "$succ_at" --arg sd "$succ_date" --arg since "$since" \
+    --arg source "$source" --arg fb "$fb" \
     --argjson fails "$fails" --argjson esc "$esc" --argjson thr "$ESCALATE_AFTER" \
     '{ state: $state,
        last_attempt_at: $at,
@@ -88,6 +102,8 @@ write_status() { # $1=state $2=http_status $3=detail
        http_status: (if $http   == "" then null else $http   end),
        detail:      (if $detail == "" then null else $detail end),
        endpoint: $ep,
+       source: $source,
+       fallback_reason: (if $fb == "" then null else $fb end),
        last_success_at:        (if $sa    == "" then null else $sa    end),
        last_success_date_jst:  (if $sd    == "" then null else $sd    end),
        consecutive_failures: $fails,
@@ -95,7 +111,7 @@ write_status() { # $1=state $2=http_status $3=detail
        escalate: $esc,
        escalate_after: $thr }' > tmp/status.json
   mv tmp/status.json "$STATUS_FILE"
-  echo "### STATUS: state=${state} http=${http:-none} consecutive_failures=${fails} escalate=${esc}"
+  echo "### STATUS: state=${state} source=${source} http=${http:-none} consecutive_failures=${fails} escalate=${esc}"
 }
 
 # スクリプト／データ側の不具合。ここだけが exit 1。
@@ -217,8 +233,90 @@ collect_feed() { # $1=feed名 $2=blockId $3=qs
   echo "$got"   > "tmp/got_${feed}.txt"
 }
 
-collect_feed local    "$BLOCK_LOCAL"    "$QS_LOCAL"    || bail_upstream local
-collect_feed national "$BLOCK_NATIONAL" "$QS_NATIONAL" || bail_upstream national
+# ============================================================
+# フォールバック: 静的JSONから取得
+#  形式: {sig, version, govKind, lang, masters:{agencies,prefectures,paKinds}, cols:[...], rows:[[...],...]}
+#  cols = xid, aid, title, date(YYYYMMDD), agency(コード), location(都道府県コード),
+#         cats(分類コード '|' 区切り), deadline(YYYYMMDD or ""), type(paKindコード or "")
+#  API と同じ条件（公示日が収集ウィンドウ内、受領期限が未到来または未設定）に絞り、
+#  API の items と同じ形（date="YYYY年MM月DD日", agency/location は名称）へ変換する。
+#  成功 → return 0 / 失敗 → return 1（呼び出し側は API 側の失敗分類で bail する）
+# ============================================================
+collect_static() { # $1=feed名 $2=path
+  local feed="$1" path="$2" code curl_rc=0 out="tmp/static_${feed}.json" rows got
+  echo "### FEED(static_json): ${feed}  ${BASE_URL}${path}"
+  code=$(curl -sS -o "$out" -w '%{http_code}' \
+    --retry 3 --retry-delay 5 --max-time 120 \
+    -A "$UA" -H 'Accept: application/json, */*; q=0.01' \
+    -H "Referer: ${BASE_URL}/gov_procurement/" \
+    "${BASE_URL}${path}?v=$(date +%s)") || curl_rc=$?
+  if [ "$curl_rc" -ne 0 ]; then
+    echo "ERROR(static_json): curl exit=${curl_rc}" >&2; return 1
+  fi
+  if [ "$code" != "200" ]; then
+    echo "ERROR(static_json): HTTP ${code}  本文: $(snippet "$out")" >&2; return 1
+  fi
+  if ! jq -e 'type=="object" and (.cols|type=="array") and (.rows|type=="array")
+              and (.cols|index("aid")!=null) and (.cols|index("date")!=null)
+              and (.cols|index("title")!=null) and (.cols|index("agency")!=null)' "$out" > /dev/null 2>&1; then
+    echo "ERROR(static_json): 期待した構造(cols/rows)ではありません  本文: $(snippet "$out")" >&2; return 1
+  fi
+  rows=$(jq '.rows|length' "$out")
+  if [ "$rows" -eq 0 ]; then
+    echo "ERROR(static_json): rows が空です" >&2; return 1
+  fi
+
+  jq --arg feed "$feed" --arg from "$FROM_YMD" --arg to "$TO_YMD" --arg today "$TO_YMD" '
+    def ymd: if (.|length) == 8 then .[0:4] + "年" + .[4:6] + "月" + .[6:8] + "日" else . end;
+    .masters as $m | .cols as $c
+    | [ .rows[] | . as $r | reduce range(0; $c|length) as $i ({}; .[$c[$i]] = ($r[$i] // "")) ]
+    | map(select((.date|tostring) >= $from and (.date|tostring) <= $to))
+    | map(select(((.deadline // "")|tostring) == "" or ((.deadline|tostring) >= $today)))
+    | map({
+        xid: ((.xid|tostring) | tonumber? // .xid),
+        aid: (.aid|tostring),
+        title: (.title // ""),
+        date: ((.date|tostring) | ymd),
+        agency: ($m.agencies[(.agency|tostring)] // (.agency|tostring)),
+        location: ($m.prefectures[(.location|tostring)] // (.location|tostring)),
+        cats: ((.cats // "")|tostring),
+        deadline: (((.deadline // "")|tostring) | ymd),
+        paKind: ($m.paKinds[((.type // "")|tostring)] // ""),
+        feed: $feed })
+    | map(. + {url:
+        (if $feed == "local"
+         then "https://www.jetro.go.jp/gov_procurement/local/articles/" + .aid + ".html"
+         else "https://www.jetro.go.jp/gov_procurement/national/articles/" + (.xid|tostring) + "/" + .aid + ".html"
+         end)})
+    | map(. + {key: ($feed + ":" + .aid)})
+    | unique_by(.key)
+  ' "$out" > "tmp/items_${feed}.json" || { echo "ERROR(static_json): 変換に失敗" >&2; return 1; }
+
+  got=$(jq 'length' "tmp/items_${feed}.json")
+  echo "  rows(all)=${rows} in_window=${got}  (window ${FROM_YMD}-${TO_YMD}, deadline>=${TO_YMD} or none)"
+  echo "$got" > "tmp/total_${feed}.txt"
+  echo "$got" > "tmp/got_${feed}.txt"
+}
+
+# API を試し、上流起因で失敗したら静的JSONへフォールバックする。
+# どちらも失敗した場合は API 側の分類（HIT_CLASS 等）で bail する。
+SOURCE=api; FALLBACK_REASON=""
+run_feed() { # $1=feed名 $2=blockId $3=qs $4=static path
+  local feed="$1" api_class api_code api_detail
+  if collect_feed "$feed" "$2" "$3"; then return 0; fi
+  api_class="${HIT_CLASS:-upstream}"; api_code="${HIT_CODE:-}"; api_detail="${HIT_DETAIL:-}"
+  echo "### API が利用できないため静的JSONへフォールバックします (feed=${feed}, ${api_class}/${api_code})"
+  if collect_static "$feed" "$4"; then
+    SOURCE=static_json
+    FALLBACK_REASON="api ${api_class} http=${api_code}"
+    return 0
+  fi
+  HIT_CLASS="$api_class"; HIT_CODE="$api_code"; HIT_DETAIL="$api_detail"
+  return 1
+}
+
+run_feed local    "$BLOCK_LOCAL"    "$QS_LOCAL"    "$STATIC_PATH_LOCAL"    || bail_upstream local
+run_feed national "$BLOCK_NATIONAL" "$QS_NATIONAL" "$STATIC_PATH_NATIONAL" || bail_upstream national
 
 echo "### STAGE 3: 統合"
 jq -s 'add' tmp/items_local.json tmp/items_national.json > tmp/items.json
@@ -259,8 +357,9 @@ jq -n \
   --argjson total "$TOTAL" --argjson collected "$GOT" --argjson match "$MATCH" \
   --argjson tl "$TOTAL_L" --argjson tn "$TOTAL_N" \
   --argjson new_count "$NEW" --argjson nl "$NEW_L" --argjson nn "$NEW_N" \
+  --arg source "$SOURCE" \
   --slurpfile items tmp/items.json --slurpfile newi tmp/new.json \
-  '{collected_at:$at, window:{from:$from,to:$to},
+  '{collected_at:$at, source:$source, window:{from:$from,to:$to},
     server_total:$total, collected:$collected, count_match:$match,
     by_feed:{local:$tl, national:$tn},
     new_count:$new_count, new_by_feed:{local:$nl, national:$nn},
@@ -271,11 +370,12 @@ mk_new() { # $1=出力先 $2="all"/"local"/"national"
   jq --arg mode "$2" '
     (if $mode == "all" then .new_items
      else (.new_items | map(select(.feed == $mode))) end) as $sel
-    | {collected_at, window, server_total, collected, count_match,
+    | {collected_at, source, window, server_total, collected, count_match,
        by_feed, new_by_feed,
        new_count: ($sel | length),
        new_items: ($sel | map({
          feed, date, agency, location, title, url,
+         cats: (.cats // ""), deadline: (.deadline // ""),
          paKind: ((.paKind // "") | gsub("<[^>]*>"; " ") | gsub("\\s+"; " ")
                   | ltrimstr(" ") | rtrimstr(" "))
        }))}
@@ -290,5 +390,5 @@ echo "### STAGE 6: seen更新"
 mv tmp/seen_new.json data/seen.json
 cp data/latest.json "data/history-$(TZ=Asia/Tokyo date +%Y%m%d).json"
 
-write_status ok "200" ""
-echo "### DONE total=${TOTAL} collected=${GOT} new=${NEW}"
+write_status ok "200" "" "$SOURCE" "$FALLBACK_REASON"
+echo "### DONE source=${SOURCE} total=${TOTAL} collected=${GOT} new=${NEW}"

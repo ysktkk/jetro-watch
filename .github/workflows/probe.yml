@@ -59,10 +59,14 @@ jobs:
       - name: Compare with last known state
         id: state
         run: |
-          PREV=unknown
+          PREV=unknown; SRC=api
           if [ -f data/status.json ]; then
-            PREV=$(jq -r '.state // "unknown"' data/status.json)
+            PREV=$(jq -r '.state  // "unknown"' data/status.json)
+            SRC=$(jq  -r '.source // "api"'     data/status.json)
           fi
+          # 静的JSONフォールバックで state=ok になっていても、API自体は未復旧なので
+          # 「API復旧を検知したら collect を起動する」判定には source も見る。
+          if [ "$PREV" = "ok" ] && [ "$SRC" != "api" ]; then PREV="ok(${SRC})"; fi
           echo "prev=$PREV" >> "$GITHUB_OUTPUT"
 
           {

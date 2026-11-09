@@ -52,6 +52,8 @@ jobs:
           LASTOK=$(jq -r '.last_success_date_jst // "-"' data/status.json)
           ESC=$(jq   -r '.escalate'                      data/status.json)
           DETAIL=$(jq -r '.detail                // ""'  data/status.json)
+          SOURCE=$(jq -r '.source                // "api"' data/status.json)
+          FBR=$(jq    -r '.fallback_reason       // ""'  data/status.json)
 
           {
             echo "## jetro-collect: \`${STATE}\`"
@@ -59,6 +61,7 @@ jobs:
             echo "| 項目 | 値 |"
             echo "|---|---|"
             echo "| HTTPステータス | \`${HTTP}\` |"
+            echo "| 取得経路 | \`${SOURCE}\` |"
             echo "| 連続失敗回数 | ${FAILS} |"
             echo "| 失敗開始日(JST) | ${SINCE} |"
             echo "| 最終成功日(JST) | ${LASTOK} |"
@@ -68,7 +71,11 @@ jobs:
 
           case "$STATE" in
             ok)
-              echo "::notice::収集成功。"
+              if [ "$SOURCE" = "static_json" ]; then
+                echo "::warning::収集成功（フォールバック: 静的JSON経由）。検索APIは依然利用不可 [${FBR}]。"
+              else
+                echo "::notice::収集成功。"
+              fi
               ;;
             script_error)
               # 人間の対応が必要。ここだけジョブを失敗させる。
