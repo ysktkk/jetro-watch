@@ -1,0 +1,14 @@
+{
+  "state": "upstream",
+  "last_attempt_at": "2026-11-06T06:10:00Z",
+  "last_attempt_date_jst": "2026-11-06",
+  "http_status": "503",
+  "detail": "メンテナンス中（JETRO不正アクセス対応による暫定運用。2026-10-14発生／10-20暫定再開、検索機能の一部を制限）",
+  "endpoint": "https://www.jetro.go.jp/view_interface.php",
+  "last_success_at": "2026-10-15T11:21:36Z",
+  "last_success_date_jst": "2026-10-15",
+  "consecutive_failures": 16,
+  "failing_since_date_jst": "2026-10-16",
+  "escalate": true,
+  "escalate_after": 3
+}

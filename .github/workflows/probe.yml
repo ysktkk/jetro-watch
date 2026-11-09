@@ -1,10 +1,101 @@
 name: probe
 
 on:
+  schedule:
+    - cron: '37 22 * * *'   # 毎日 22:37 UTC = 翌 07:37 JST（collectの15:10 JSTとずらす）
   workflow_dispatch:
 
+permissions:
+  contents: read
+  actions: write            # 復旧検知時に jetro-collect を起動するため
+
 jobs:
-  probe:
+  # ------------------------------------------------------------
+  # 復旧検知。エンドポイントを1回だけ叩いて、生きていたら collect を起動する。
+  # 土日も回す（collectは平日のみのため）。
+  # JETROは不正アクセス対応中なので、意図的に1日1回に抑えている。
+  # ------------------------------------------------------------
+  recovery:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Probe endpoint once
+        id: probe
+        run: |
+          UA='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
+          TO=$(TZ=Asia/Tokyo date +%Y%%2F%m%%2F%d)
+          FROM=$(TZ=Asia/Tokyo date -d '7 days ago' +%Y%%2F%m%%2F%d)
+          QS="local_from=${FROM}&local_to=${TO}&local_area=&local_entity=&local_keyword=&local_classification1=&local_classification2=&local_classification3=&local_deadline=1"
+          URL="https://www.jetro.go.jp/view_interface.php?blockId=33686978&current=0&${QS}"
+
+          rc=0
+          code=$(curl -sS -o /tmp/body -w '%{http_code}' \
+            --max-time 60 \
+            -A "$UA" \
+            -H 'Accept: application/json, text/javascript, */*; q=0.01' \
+            -H 'X-Requested-With: XMLHttpRequest' \
+            -H 'Referer: https://www.jetro.go.jp/gov_procurement/' \
+            "$URL") || rc=$?
+
+          if [ "$rc" -ne 0 ]; then code="curl_exit_${rc}"; fi
+          SIZE=$(wc -c < /tmp/body)
+          echo "HTTP      : $code"
+          echo "size      : $SIZE bytes"
+
+          ALIVE=false
+          if [ "$code" = "200" ] && jq -e 'type == "object" and has("items")' /tmp/body > /dev/null 2>&1; then
+            ALIVE=true
+            TOTAL=$(jq -r '.pagination.total // "?"' /tmp/body)
+            echo "total     : $TOTAL"
+            echo "total=$TOTAL" >> "$GITHUB_OUTPUT"
+          else
+            echo "--- 本文 先頭300字 ---"
+            sed -e 's/<[^>]*>/ /g' -e 's/  */ /g' /tmp/body | tr -d '\n' | cut -c1-300; echo
+          fi
+          echo "alive=$ALIVE"  >> "$GITHUB_OUTPUT"
+          echo "code=$code"    >> "$GITHUB_OUTPUT"
+
+      - name: Compare with last known state
+        id: state
+        run: |
+          PREV=unknown
+          if [ -f data/status.json ]; then
+            PREV=$(jq -r '.state // "unknown"' data/status.json)
+          fi
+          echo "prev=$PREV" >> "$GITHUB_OUTPUT"
+
+          {
+            echo "## probe: endpoint は $([ '${{ steps.probe.outputs.alive }}' = 'true' ] && echo '🟢 生存' || echo '🔴 停止')"
+            echo ""
+            echo "| 項目 | 値 |"
+            echo "|---|---|"
+            echo "| HTTP | \`${{ steps.probe.outputs.code }}\` |"
+            echo "| 直前のcollect状態 | \`$PREV\` |"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      # 停止していた collect が復旧した場合のみ、collect を起動する。
+      # 既に ok なら何もしない（毎日の二重実行を避ける）。
+      - name: Trigger collect on recovery
+        if: steps.probe.outputs.alive == 'true' && steps.state.outputs.prev != 'ok'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "::notice::エンドポイントが復旧しました（直前の状態: ${{ steps.state.outputs.prev }}）。jetro-collect を起動します。"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "✅ **復旧を検知したため jetro-collect を起動しました。**" >> "$GITHUB_STEP_SUMMARY"
+          gh workflow run collect.yml
+
+      - name: Still down
+        if: steps.probe.outputs.alive != 'true'
+        run: |
+          echo "::warning::エンドポイントは依然として利用できません（HTTP ${{ steps.probe.outputs.code }}）。"
+
+  # ------------------------------------------------------------
+  # ヘッダ条件の切り分け用。手動実行のときだけ走る。
+  # ------------------------------------------------------------
+  headers:
+    if: github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - name: Probe JETRO endpoint

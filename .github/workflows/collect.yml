@@ -12,14 +12,78 @@ jobs:
   collect:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5 
+      - uses: actions/checkout@v5
+
+      # collect.sh の終了コード
+      #   0 = 収集成功 / 上流停止でスキップ
+      #   1 = スクリプト・データ側の不具合
+      # どちらでも data/status.json は書かれるので、ここでは落とさずに
+      # 後段の Report status で判定する。
       - name: Collect from JETRO
+        id: collect
+        continue-on-error: true
         run: bash scripts/collect.sh
 
+      # 上流停止時も status.json だけは必ずコミットする（連続失敗日数を持ち越すため）
       - name: Commit results
+        if: always()
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          STATE=$(jq -r '.state // "unknown"' data/status.json 2>/dev/null || echo unknown)
           git add data
-          git diff --staged --quiet || git commit -m "collect $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git diff --staged --quiet \
+            || git commit -m "collect ($STATE) $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
+
+      - name: Report status
+        if: always()
+        run: |
+          if [ ! -f data/status.json ]; then
+            echo "::error::data/status.json が生成されていません。collect.sh が STAGE 0 より前で落ちた可能性があります。"
+            echo '## ❌ status.json なし' >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+
+          STATE=$(jq -r '.state'                        data/status.json)
+          HTTP=$(jq  -r '.http_status            // "-"' data/status.json)
+          FAILS=$(jq -r '.consecutive_failures'          data/status.json)
+          SINCE=$(jq -r '.failing_since_date_jst // "-"' data/status.json)
+          LASTOK=$(jq -r '.last_success_date_jst // "-"' data/status.json)
+          ESC=$(jq   -r '.escalate'                      data/status.json)
+          DETAIL=$(jq -r '.detail                // ""'  data/status.json)
+
+          {
+            echo "## jetro-collect: \`${STATE}\`"
+            echo ""
+            echo "| 項目 | 値 |"
+            echo "|---|---|"
+            echo "| HTTPステータス | \`${HTTP}\` |"
+            echo "| 連続失敗回数 | ${FAILS} |"
+            echo "| 失敗開始日(JST) | ${SINCE} |"
+            echo "| 最終成功日(JST) | ${LASTOK} |"
+            echo "| エスカレーション | ${ESC} |"
+            [ -n "$DETAIL" ] && { echo ""; echo "応答本文（先頭200字）:"; echo ""; echo '```'; echo "$DETAIL"; echo '```'; }
+          } >> "$GITHUB_STEP_SUMMARY"
+
+          case "$STATE" in
+            ok)
+              echo "::notice::収集成功。"
+              ;;
+            script_error)
+              # 人間の対応が必要。ここだけジョブを失敗させる。
+              echo "::error::スクリプト／データ側の不具合です: ${DETAIL}"
+              exit 1
+              ;;
+            upstream|endpoint_gone|blocked|bad_payload)
+              # JETRO側の問題。赤failにはしない（復旧まで毎日赤くなるのを避けるため）。
+              echo "::warning::上流(JETRO)が利用できません [${STATE} / HTTP ${HTTP}]。連続${FAILS}回目、最終成功 ${LASTOK}。データは更新していません。"
+              if [ "$ESC" = "true" ]; then
+                echo "::warning::連続失敗がしきい値に達しました。JETRO側の復旧状況の確認を推奨します。"
+              fi
+              ;;
+            *)
+              echo "::error::未知の state: ${STATE}"
+              exit 1
+              ;;
+          esac
