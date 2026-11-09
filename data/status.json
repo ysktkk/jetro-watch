@@ -1,13 +1,13 @@
 {
   "state": "upstream",
-  "last_attempt_at": "2026-11-06T06:10:00Z",
-  "last_attempt_date_jst": "2026-11-06",
+  "last_attempt_at": "2026-11-09T10:34:31Z",
+  "last_attempt_date_jst": "2026-11-09",
   "http_status": "503",
-  "detail": "メンテナンス中（JETRO不正アクセス対応による暫定運用。2026-10-14発生／10-20暫定再開、検索機能の一部を制限）",
+  "detail": "メンテナンス中 body{font-family:sans-serif;background:#f4f4f4;margin:0;height:100vh;display:flex;justify-content:center;align-items:center;text-align:center} div{background:#fff;border-radius:8px;padding:40p",
   "endpoint": "https://www.jetro.go.jp/view_interface.php",
   "last_success_at": "2026-10-15T11:21:36Z",
   "last_success_date_jst": "2026-10-15",
-  "consecutive_failures": 16,
+  "consecutive_failures": 17,
   "failing_since_date_jst": "2026-10-16",
   "escalate": true,
   "escalate_after": 3
