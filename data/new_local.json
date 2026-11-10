@@ -1,21 +1,143 @@
 {
-  "collected_at": "2026-11-09T16:05:24Z",
+  "collected_at": "2026-11-10T14:46:34Z",
   "source": "static_json",
   "window": {
     "from": "2026/10/11",
     "to": "2026/11/10"
   },
-  "server_total": 2148,
-  "collected": 2148,
+  "server_total": 2195,
+  "collected": 2195,
   "count_match": true,
   "by_feed": {
-    "local": 439,
-    "national": 1709
+    "local": 450,
+    "national": 1745
   },
   "new_by_feed": {
-    "local": 0,
-    "national": 0
+    "local": 11,
+    "national": 36
   },
-  "new_count": 0,
-  "new_items": []
+  "new_count": 11,
+  "new_items": [
+    {
+      "feed": "local",
+      "date": "2026年11月09日",
+      "agency": "地方独立行政法人三重県立総合医療センター",
+      "location": "三重県",
+      "title": "地方独立行政法人三重県立総合医療センター全身用X線CT装置の購入及び保守",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0eec554681a4145b.html",
+      "cats": "0022|0031",
+      "deadline": "2026年12月23日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月09日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "特種用途自動車(災害用重機搬送車)の買入れ",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/1ec02229700f6b11.html",
+      "cats": "0017",
+      "deadline": "2026年12月22日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月09日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "ウイルス対策用ソフトウエアライセンス４種の買入れ ",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/20bf2bcceb0c28f3.html",
+      "cats": "0014|0027|0071",
+      "deadline": "2027年01月26日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月09日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "道路防災ＩＴＶ制御設備用サーバ機器等の借入れ",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/402336d65eb7092e.html",
+      "cats": "0014|0027|0082",
+      "deadline": "2026年12月22日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月09日",
+      "agency": "地方独立行政法人宮城県立病院機構",
+      "location": "宮城県",
+      "title": "宮城県立病院機構病院医事業務委託",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/48d072a4a6d4b098.html",
+      "cats": "0034",
+      "deadline": "2026年12月14日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月09日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "低濃度ＰＣＢ廃棄物収集運搬・処分委託(令和８年度有明ふ頭橋)",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/60f7142aa3dfcd6f.html",
+      "cats": "0078",
+      "deadline": "2026年12月22日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月09日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "駒込病院次期医療情報基幹システム端末機器等の借入れ（令和9年5月開始）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/7203f428d3b70806.html",
+      "cats": "0014|0027|0082",
+      "deadline": "2026年12月04日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月09日",
+      "agency": "福岡市",
+      "location": "福岡県",
+      "title": "単価契約　水道用次亜塩素酸ナトリウムの購入",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/95598466f4e2d67d.html",
+      "cats": "0003",
+      "deadline": "2026年12月21日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月09日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "放射線情報管理システムの買入れ（都立大塚病院）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a955de751be32202.html",
+      "cats": "0022|0031",
+      "deadline": "2026年12月04日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月09日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "Web口座振替受付サービス提供単価契約",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/c3ee4d32aa7f54fd.html",
+      "cats": "0027|0067|0071",
+      "deadline": "2026年12月22日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月09日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "駒込病院次期医療情報基幹システムネットワーク機器等の借入れ（令和９年５月開始）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ee8d902d1e4006ad.html",
+      "cats": "0015|0028|0082",
+      "deadline": "2026年12月04日",
+      "paKind": ""
+    }
+  ]
 }
