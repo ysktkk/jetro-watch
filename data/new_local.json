@@ -1,23 +1,45 @@
 {
-  "collected_at": "2026-11-12T15:04:09Z",
+  "collected_at": "2026-11-13T14:28:57Z",
   "source": "static_json",
   "window": {
     "from": "2026/10/14",
     "to": "2026/11/13"
   },
-  "server_total": 2372,
-  "collected": 2372,
+  "server_total": 2446,
+  "collected": 2446,
   "count_match": true,
   "by_feed": {
-    "local": 511,
-    "national": 1861
+    "local": 525,
+    "national": 1921
   },
   "new_by_feed": {
-    "local": 16,
-    "national": 55
+    "local": 30,
+    "national": 115
   },
-  "new_count": 16,
+  "new_count": 30,
   "new_items": [
+    {
+      "feed": "local",
+      "date": "2026年11月12日",
+      "agency": "公立大学法人名古屋市立大学",
+      "location": "愛知県",
+      "title": "手術台 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/069815ea9fe01b53.html",
+      "cats": "0022|0031",
+      "deadline": "2027年01月08日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月12日",
+      "agency": "山梨県",
+      "location": "山梨県",
+      "title": "普通科教育用コンピュータ設備",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/0b3ce595f4213930.html",
+      "cats": "0014|0027|0071",
+      "deadline": "2026年12月23日",
+      "paKind": ""
+    },
     {
       "feed": "local",
       "date": "2026年11月11日",
@@ -42,6 +64,17 @@
     },
     {
       "feed": "local",
+      "date": "2026年11月12日",
+      "agency": "茨城県",
+      "location": "茨城県",
+      "title": "茨城県立日立第一高等学校外23校に係るタブレット端末等（iPadOS）１式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/17313b801d5af91f.html",
+      "cats": "0014|0027|0071",
+      "deadline": "2026年12月22日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
       "date": "2026年11月11日",
       "agency": "大阪市",
       "location": "大阪府",
@@ -60,6 +93,39 @@
       "url": "https://www.jetro.go.jp/gov_procurement/local/articles/29d216b70efb9e9e.html",
       "cats": "0024",
       "deadline": "2026年12月24日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月12日",
+      "agency": "地方独立行政法人佐賀県医療センター好生館",
+      "location": "佐賀県",
+      "title": "患者監視装置 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/301f7b1e06e404c3.html",
+      "cats": "0022|0031",
+      "deadline": "2026年12月22日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月12日",
+      "agency": "地方独立行政法人広島県立病院機構",
+      "location": "広島県",
+      "title": "診断用CT搭載型SPECT装置の購入及び保守 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/30e96b295b9f491a.html",
+      "cats": "0022|0031",
+      "deadline": "2026年12月21日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月12日",
+      "agency": "川崎市",
+      "location": "神奈川県",
+      "title": "川崎市ＳＳＯ基盤に関する構築業務委託",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3d633c461ba22595.html",
+      "cats": "0027|0071",
+      "deadline": "2026年12月15日",
       "paKind": ""
     },
     {
@@ -93,6 +159,83 @@
       "url": "https://www.jetro.go.jp/gov_procurement/local/articles/53cd48c63661dcd9.html",
       "cats": "0027|0067|0071",
       "deadline": "2027年02月04日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月12日",
+      "agency": "山梨県",
+      "location": "山梨県",
+      "title": "電子入札・公共事業総合管理システム構築業務委託",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/6698e3ff98aa2bcc.html",
+      "cats": "0027|0071",
+      "deadline": "2026年12月23日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月12日",
+      "agency": "山梨県",
+      "location": "山梨県",
+      "title": "ＥＷＳ実習装置",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/749cc661dfa706ce.html",
+      "cats": "0014|0027|0071",
+      "deadline": "2026年12月23日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月12日",
+      "agency": "岡山市",
+      "location": "岡山県",
+      "title": "Microsoft 365 / Office 365 Government ライセンス包括使用契約（その２）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/93a6fd12f4ef58d8.html",
+      "cats": "0014|0027|0071",
+      "deadline": "2026年11月30日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月12日",
+      "agency": "川崎市",
+      "location": "神奈川県",
+      "title": "大戸こども文化センター他７施設ＬＥＤ照明器具賃貸借契約",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9606baca48012f1e.html",
+      "cats": "0016|0021",
+      "deadline": "2026年12月14日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月12日",
+      "agency": "浜松市",
+      "location": "静岡県",
+      "title": "災害用仮設トイレ（洋式・身障者対応型） 235基",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/9fdcaf1e8fb024c6.html",
+      "cats": "0026",
+      "deadline": "2027年01月15日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月12日",
+      "agency": "茨城県",
+      "location": "茨城県",
+      "title": "茨城県立高萩高等学校外117校に係る指導者用端末等（第２回）１式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a72c2c3785b8c5c4.html",
+      "cats": "0014|0027|0071",
+      "deadline": "2026年12月22日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月11日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "東京都立墨東病院建物清掃委託（長期継続契約）",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ad36f80dff69683a.html",
+      "cats": "0075",
+      "deadline": "2026年12月07日",
       "paKind": ""
     },
     {
@@ -170,6 +313,17 @@
       "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d8b787622773a755.html",
       "cats": "0012|0013",
       "deadline": "2026年12月24日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月12日",
+      "agency": "新潟市",
+      "location": "新潟県",
+      "title": "新潟市民病院スマートフォン導入及び運用保守業務 一式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e7fd25656446bbec.html",
+      "cats": "0015|0028",
+      "deadline": "2026年12月11日",
       "paKind": ""
     },
     {
