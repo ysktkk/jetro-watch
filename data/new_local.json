@@ -1,121 +1,21 @@
 {
-  "collected_at": "2026-11-20T15:20:37Z",
+  "collected_at": "2026-11-23T17:57:01Z",
   "source": "static_json",
   "window": {
-    "from": "2026/10/22",
-    "to": "2026/11/21"
+    "from": "2026/10/25",
+    "to": "2026/11/24"
   },
-  "server_total": 2178,
-  "collected": 2178,
+  "server_total": 2061,
+  "collected": 2061,
   "count_match": true,
   "by_feed": {
-    "local": 492,
-    "national": 1686
+    "local": 461,
+    "national": 1600
   },
   "new_by_feed": {
-    "local": 9,
-    "national": 78
+    "local": 0,
+    "national": 0
   },
-  "new_count": 9,
-  "new_items": [
-    {
-      "feed": "local",
-      "date": "2026年11月19日",
-      "agency": "地方独立行政法人長野県立病院機構",
-      "location": "長野県",
-      "title": "長野県立信州医療センター清掃業務委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/3664d4c8e01c9f43.html",
-      "cats": "0075",
-      "deadline": "2027年01月08日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月19日",
-      "agency": "福岡市",
-      "location": "福岡県",
-      "title": "ア　免税軽油の購入（２月分）イ　免税軽油の購入（３月分）ウ　Ａ重油（海上大口）の購入（２月分）エ　Ａ重油（海上大口）の購入（３月分）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/49c1a19c431e4c02.html",
-      "cats": "0002",
-      "deadline": "2027年01月20日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月19日",
-      "agency": "地方独立行政法人神奈川県立産業技術総合研究所",
-      "location": "神奈川県",
-      "title": "令和９年度海老名本部の電力購入 ４，７７３，５２０キロワット時",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/820b384e90951b41.html",
-      "cats": "0026",
-      "deadline": "2027年01月04日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月19日",
-      "agency": "公立大学法人横浜市立大学",
-      "location": "神奈川県",
-      "title": "【特定調達契約】横浜市立大学附属病院環境衛生維持管理業務委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/a91ad4e0f0f045f5.html",
-      "cats": "0075",
-      "deadline": "2027年02月04日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月19日",
-      "agency": "公立大学法人横浜市立大学",
-      "location": "神奈川県",
-      "title": "【特定調達契約】横浜市立大学木原生物学研究所で使用する電力 約2,285,000キロワットアワーの供給",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b61062531497e160.html",
-      "cats": "0026",
-      "deadline": "2027年01月13日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月19日",
-      "agency": "京都市",
-      "location": "京都府",
-      "title": "（単価契約）Google Workspace Enterprise Standardエディションの調達",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b843d05a554401fc.html",
-      "cats": "0014|0027|0071",
-      "deadline": "2027年01月08日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月19日",
-      "agency": "公立大学法人横浜市立大学",
-      "location": "神奈川県",
-      "title": "【特定調達契約】横浜市立大学鶴見キャンパス及び理化学研究所で使用する電力30,267,918キロワットアワーの供給",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/cef3fbd9fca38f5e.html",
-      "cats": "0026",
-      "deadline": "2027年01月13日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月19日",
-      "agency": "公立大学法人横浜市立大学",
-      "location": "神奈川県",
-      "title": "【特定調達契約】横浜市立大学金沢八景キャンパスで使用する電力 約4,903,000キロワットアワーの供給",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d9c148174cb6646d.html",
-      "cats": "0026",
-      "deadline": "2027年01月13日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月19日",
-      "agency": "北九州市",
-      "location": "福岡県",
-      "title": "大型観光リフトバスリース契約 １台",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e4eacfc4e0668701.html",
-      "cats": "0017",
-      "deadline": "2026年11月27日",
-      "paKind": ""
-    }
-  ]
+  "new_count": 0,
+  "new_items": []
 }
