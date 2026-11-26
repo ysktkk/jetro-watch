@@ -1,274 +1,120 @@
 {
-  "collected_at": "2026-11-25T17:05:41Z",
+  "collected_at": "2026-11-26T16:46:37Z",
   "source": "static_json",
   "window": {
-    "from": "2026/10/27",
-    "to": "2026/11/26"
+    "from": "2026/10/28",
+    "to": "2026/11/27"
   },
-  "server_total": 2272,
-  "collected": 2272,
+  "server_total": 2295,
+  "collected": 2295,
   "count_match": true,
   "by_feed": {
-    "local": 467,
-    "national": 1805
+    "local": 461,
+    "national": 1834
   },
   "new_by_feed": {
-    "local": 23,
-    "national": 39
+    "local": 9,
+    "national": 70
   },
-  "new_count": 23,
+  "new_count": 9,
   "new_items": [
     {
       "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "京都市",
-      "location": "京都府",
-      "title": "京都市東部山間埋立処分地現場技術業務（ダム管理）委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/111b2ce1f181e1e9.html",
-      "cats": "0078",
-      "deadline": "2027年01月07日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "沖縄県",
-      "location": "沖縄県",
-      "title": "大型提示装置（電子黒板）及び指導者用端末（以下これらを「機器等」という。）（設置及び設定業務を含む。以下同じ。） 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/15b2c07e2c900ecd.html",
-      "cats": "0014|0016",
-      "deadline": "2027年01月07日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "京都市",
-      "location": "京都府",
-      "title": "令和９年度京都市東部山間埋立処分地浸出水処理施設運転保守管理業務委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/16308cd069ae0be2.html",
-      "cats": "0078",
-      "deadline": "2027年01月07日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "ネットワーク装置（東部総合職業技術校） 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/2810310301258ef5.html",
-      "cats": "0015|0028",
-      "deadline": "2026年12月17日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "兵庫県",
-      "location": "兵庫県",
-      "title": "兵庫県警察本部本館で使用する電気（再生可能エネルギー100パーセント） 予定数量7,961,552キロワット時／年",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/453d9c53641d8614.html",
-      "cats": "0026",
-      "deadline": "2027年01月13日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県知事選挙及び神奈川県議会議員選挙に係る選挙公報",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4bf8f7b9bce96e7e.html",
-      "cats": "0076",
-      "deadline": "2027年02月01日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "地方独立行政法人大阪府立病院機構",
-      "location": "大阪府",
-      "title": "令和８年度から令和12年度までにおける大阪はびきの医療センターのモバイル端末及びクラウド型電話交換機(PBX)等導入業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/4fa2880d165fc759.html",
-      "cats": "0015|0028",
-      "deadline": "2027年01月06日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "千葉県",
-      "location": "千葉県",
-      "title": "医療用スマートフォンシステム導入業務委託 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/5d2822b9688d4bc3.html",
-      "cats": "0027|0071",
-      "deadline": "2027年01月05日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "兵庫県",
-      "location": "兵庫県",
-      "title": "医療用次世代シーケンサーシステム 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/6d528ed6cbfff15c.html",
+      "date": "2026年11月25日",
+      "agency": "地方独立行政法人東京都立病院機構",
+      "location": "東京都",
+      "title": "エックス線撮影装置の買入れ",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/257438dc77b34e5c.html",
       "cats": "0022|0031",
-      "deadline": "2027年01月19日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "群馬県",
-      "location": "群馬県",
-      "title": "ぐんま天文台１５０ｃｍ望遠鏡制御系更新業務 一式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/84fdb809edbba336.html",
-      "cats": "0024",
-      "deadline": "2027年01月07日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "福井県",
-      "location": "福井県",
-      "title": "福井県立敦賀高等学校産業教育実習用コンピュータ機器等購入および保守業務委託 一式（長期継続契約）",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/89512abbec46a502.html",
-      "cats": "0014|0027|0071",
-      "deadline": "2027年01月05日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "熊本県",
-      "location": "熊本県",
-      "title": "熊本県総合行政ネットワーク幹線系通信回線サービスの調達",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/900a4cad06e48620.html",
-      "cats": "0029|0030",
-      "deadline": "2028年01月14日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "大阪市",
-      "location": "大阪府",
-      "title": "① 水道メータ13mm 9,600個 ② 水道メータ（共同住宅用） 20mm 24,000個 ③ 水道メータ25mm 15,360個 ④ 水道メータ40mm 2,400個 ⑤ 水道メータ50mm 550個 ⑥ 水道メータ75mm 160個",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ada1327fee7f3807.html",
-      "cats": "0012|0013|0016",
-      "deadline": "2027年03月10日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "兵庫県",
-      "location": "兵庫県",
-      "title": "兵庫県警察本部科学捜査支援センター庁舎ほか48庁舎で使用する電気 予定数量12,704,290キロワット時／年",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b4a38715c8b32023.html",
-      "cats": "0026",
-      "deadline": "2027年01月13日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "群馬県",
-      "location": "群馬県",
-      "title": "電子入札共同システム次期開発及び運用保守委託",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/d6a41181d5811bb4.html",
-      "cats": "0027|0071",
-      "deadline": "2027年01月18日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "香川県",
-      "location": "香川県",
-      "title": "東讃統合高校校舎棟及び設備棟建築工事",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/da9a8d8ed6167fa1.html",
-      "cats": "0041",
-      "deadline": "2027年02月25日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "兵庫県",
-      "location": "兵庫県",
-      "title": "兵庫県自動車運転免許試験場ほか４庁舎で使用する電気（再生可能エネルギー100パーセント） 予定数量1,606,170キロワット時／年",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/db52a4a5ce43de61.html",
-      "cats": "0026",
-      "deadline": "2027年01月13日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "地方独立行政法人神戸市民病院機構",
-      "location": "兵庫県",
-      "title": "神戸市立医療センター中央市民病院ガス調達",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e336c02bc195ba97.html",
-      "cats": "0002",
-      "deadline": "2027年01月14日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "神奈川県",
-      "location": "神奈川県",
-      "title": "神奈川県知事選挙投票用紙（一般用）ほか 14,528,800枚",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/e825acd01050d77e.html",
-      "cats": "0076",
-      "deadline": "2026年12月18日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "愛知県",
-      "location": "愛知県",
-      "title": "愛知県精神医療センターで使用するガス 予定使用ガス量　732,000m3",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f203431be0a17cc8.html",
-      "cats": "0002",
-      "deadline": "2027年01月08日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "兵庫県",
-      "location": "兵庫県",
-      "title": "手術顕微鏡 二式",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f46ef62a99293950.html",
-      "cats": "0022|0031",
-      "deadline": "2027年01月19日",
-      "paKind": ""
-    },
-    {
-      "feed": "local",
-      "date": "2026年11月24日",
-      "agency": "広島県",
-      "location": "広島県",
-      "title": "令和８年度マイクロソフト社ソフトウェアライセンス（ＥＳＡ）一式調達業務",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f5fa887081c38856.html",
-      "cats": "0014|0027|0071",
-      "deadline": "2027年01月15日",
+      "deadline": "2026年12月21日",
       "paKind": ""
     },
     {
       "feed": "local",
       "date": "2026年11月25日",
-      "agency": "熊本県",
+      "agency": "神戸市",
+      "location": "兵庫県",
+      "title": "神戸市水道局公用車賃貸借",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/25d7eac31f1c7bf5.html",
+      "cats": "0017",
+      "deadline": "2027年01月20日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月25日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "インクカートリッジ外14種の買入れ",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/35c8f5917e0d2164.html",
+      "cats": "0014",
+      "deadline": "2027年01月19日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月25日",
+      "agency": "熊本市",
       "location": "熊本県",
-      "title": "熊本県総合行政ネットワーク支線系（県内分）通信回線サービスの調達",
-      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/ff35ada718797399.html",
-      "cats": "0029|0030",
-      "deadline": "2027年01月14日",
+      "title": "令和８年度（２０２６年度）熊本市総合行政情報システム税務系システム（法務局連携システム）導入及び運用保守業務委託",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/97424a08364163ab.html",
+      "cats": "0027|0071",
+      "deadline": "2027年01月08日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月25日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "特種用途自動車(小型ポンプ車(ハイルーフ・水槽付き))外１点の買入れ",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/b6b557f78283f239.html",
+      "cats": "0017",
+      "deadline": "2027年01月07日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月25日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "東京都下水道局財務会計システム設計・開発業務委託",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/cb3eb1e8e82660aa.html",
+      "cats": "0027|0071",
+      "deadline": "2027年03月03日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月25日",
+      "agency": "東京都",
+      "location": "東京都",
+      "title": "特種用途自動車(機動救助支援車)の買入れ",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f0db8418e4bdbbe8.html",
+      "cats": "0017",
+      "deadline": "2027年01月19日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月25日",
+      "agency": "北海道公立大学法人札幌医科大学",
+      "location": "北海道",
+      "title": "生体情報管理システム １式",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f48489e2811bdb68.html",
+      "cats": "0022|0031",
+      "deadline": "2027年01月06日",
+      "paKind": ""
+    },
+    {
+      "feed": "local",
+      "date": "2026年11月25日",
+      "agency": "神戸市",
+      "location": "兵庫県",
+      "title": "布施畑環境センター計量等業務",
+      "url": "https://www.jetro.go.jp/gov_procurement/local/articles/f94b44cafecf6e55.html",
+      "cats": "0078",
+      "deadline": "2027年01月19日",
       "paKind": ""
     }
   ]
